@@ -27,6 +27,16 @@ Using publicly available labor market data from the Bureau of Labor Statistics (
 
 ## Project Structure
 
+```
+ai-job-displacement-observatory/
+├── data/           # Raw and processed datasets
+├── notebooks/      # Jupyter notebooks for EDA, modeling, AI integration
+├── src/            # Reusable Python modules
+├── sql/            # Database schema and analysis queries
+├── tableau/        # Tableau workbook
+└── outputs/        # Figures and exported reports
+```
+
 ## Setup Instructions
 
 ```bash
