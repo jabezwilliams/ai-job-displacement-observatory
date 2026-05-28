@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (API keys — NEVER commit these)
+.env
+
+# Raw data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# macOS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
