@@ -228,7 +228,7 @@ venv/
 
 # Raw data files (too large for GitHub)
 data/raw/
-data/processed/
+data/external/
 
 # macOS junk
 .DS_Store
