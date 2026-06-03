@@ -46,5 +46,5 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+*Built by Jabez Williams | [LinkedIn](https://www.linkedin.com/in/jabez-williams-7ab3611b3)*
 
-*Built by Jabez Williams | [LinkedIn](www.linkedin.com/in/jabez-williams-7ab3611b3)*
