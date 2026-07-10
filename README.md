@@ -69,6 +69,8 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root:
 
+​``` 
+
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=ai_observatory
