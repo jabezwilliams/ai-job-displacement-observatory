@@ -1,0 +1,194 @@
+year,occ_code,occ_title,tot_emp,is_forecast,is_covid_year
+2018,11-1021,General and Operations Managers,2289770.0,False,False
+2019,11-1021,General and Operations Managers,2400280.0,False,False
+2020,11-1021,General and Operations Managers,2347420.0,False,True
+2021,11-1021,General and Operations Managers,2984920.0,False,False
+2022,11-1021,General and Operations Managers,3376680.0,False,False
+2023,11-1021,General and Operations Managers,3507810.0,False,False
+2024,11-1021,General and Operations Managers,3584420.0,False,False
+2025,11-1021,General and Operations Managers,3503020.0,False,False
+2018,13-2011,Accountants and Auditors,1259930.0,False,False
+2019,13-2011,Accountants and Auditors,1280700.0,False,False
+2020,13-2011,Accountants and Auditors,1274620.0,False,True
+2021,13-2011,Accountants and Auditors,1318550.0,False,False
+2022,13-2011,Accountants and Auditors,1402420.0,False,False
+2023,13-2011,Accountants and Auditors,1435770.0,False,False
+2024,13-2011,Accountants and Auditors,1448290.0,False,False
+2025,13-2011,Accountants and Auditors,1449500.0,False,False
+2021,15-1252,Software Developers,1364180.0,False,False
+2022,15-1252,Software Developers,1534790.0,False,False
+2023,15-1252,Software Developers,1656880.0,False,False
+2024,15-1252,Software Developers,1654440.0,False,False
+2025,15-1252,Software Developers,1687890.0,False,False
+2019,25-9045,"Teaching Assistants, Except Postsecondary",1346910.0,False,False
+2020,25-9045,"Teaching Assistants, Except Postsecondary",1272840.0,False,True
+2021,25-9045,"Teaching Assistants, Except Postsecondary",1187270.0,False,False
+2022,25-9045,"Teaching Assistants, Except Postsecondary",1254240.0,False,False
+2023,25-9045,"Teaching Assistants, Except Postsecondary",1337320.0,False,False
+2024,25-9045,"Teaching Assistants, Except Postsecondary",1375300.0,False,False
+2025,25-9045,"Teaching Assistants, Except Postsecondary",1420350.0,False,False
+2018,29-1141,Registered Nurses,2951960.0,False,False
+2019,29-1141,Registered Nurses,2982280.0,False,False
+2020,29-1141,Registered Nurses,2986500.0,False,True
+2021,29-1141,Registered Nurses,3047530.0,False,False
+2022,29-1141,Registered Nurses,3072700.0,False,False
+2023,29-1141,Registered Nurses,3175390.0,False,False
+2024,29-1141,Registered Nurses,3282010.0,False,False
+2025,29-1141,Registered Nurses,3379720.0,False,False
+2019,31-1131,Nursing Assistants,1419920.0,False,False
+2020,31-1131,Nursing Assistants,1371050.0,False,True
+2021,31-1131,Nursing Assistants,1314830.0,False,False
+2022,31-1131,Nursing Assistants,1310090.0,False,False
+2023,31-1131,Nursing Assistants,1351760.0,False,False
+2024,31-1131,Nursing Assistants,1388430.0,False,False
+2025,31-1131,Nursing Assistants,1448910.0,False,False
+2018,35-2014,"Cooks, Restaurant",1340810.0,False,False
+2019,35-2014,"Cooks, Restaurant",1401890.0,False,False
+2020,35-2014,"Cooks, Restaurant",1109650.0,False,True
+2021,35-2014,"Cooks, Restaurant",1193860.0,False,False
+2022,35-2014,"Cooks, Restaurant",1321480.0,False,False
+2023,35-2014,"Cooks, Restaurant",1412350.0,False,False
+2024,35-2014,"Cooks, Restaurant",1452130.0,False,False
+2025,35-2014,"Cooks, Restaurant",1409890.0,False,False
+2019,35-3023,Fast Food and Counter Workers,3996820.0,False,False
+2020,35-3023,Fast Food and Counter Workers,3450120.0,False,True
+2021,35-3023,Fast Food and Counter Workers,3095120.0,False,False
+2022,35-3023,Fast Food and Counter Workers,3325050.0,False,False
+2023,35-3023,Fast Food and Counter Workers,3676580.0,False,False
+2024,35-3023,Fast Food and Counter Workers,3780930.0,False,False
+2025,35-3023,Fast Food and Counter Workers,3854050.0,False,False
+2018,35-3031,Waiters and Waitresses,2582410.0,False,False
+2019,35-3031,Waiters and Waitresses,2579020.0,False,False
+2020,35-3031,Waiters and Waitresses,1944240.0,False,True
+2021,35-3031,Waiters and Waitresses,1804030.0,False,False
+2022,35-3031,Waiters and Waitresses,2122210.0,False,False
+2023,35-3031,Waiters and Waitresses,2237850.0,False,False
+2024,35-3031,Waiters and Waitresses,2302690.0,False,False
+2025,35-3031,Waiters and Waitresses,2270910.0,False,False
+2018,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2156270.0,False,False
+2019,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2145450.0,False,False
+2020,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",1990510.0,False,True
+2021,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2036680.0,False,False
+2022,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2148350.0,False,False
+2023,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2172500.0,False,False
+2024,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2199900.0,False,False
+2025,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2209760.0,False,False
+2018,41-2011,Cashiers,3635550.0,False,False
+2019,41-2011,Cashiers,3596630.0,False,False
+2020,41-2011,Cashiers,3333100.0,False,True
+2021,41-2011,Cashiers,3318020.0,False,False
+2022,41-2011,Cashiers,3296040.0,False,False
+2023,41-2011,Cashiers,3298660.0,False,False
+2024,41-2011,Cashiers,3148030.0,False,False
+2025,41-2011,Cashiers,3089410.0,False,False
+2018,41-2031,Retail Salespersons,4448120.0,False,False
+2019,41-2031,Retail Salespersons,4317950.0,False,False
+2020,41-2031,Retail Salespersons,3659670.0,False,True
+2021,41-2031,Retail Salespersons,3693490.0,False,False
+2022,41-2031,Retail Salespersons,3640040.0,False,False
+2023,41-2031,Retail Salespersons,3684740.0,False,False
+2024,41-2031,Retail Salespersons,3800250.0,False,False
+2025,41-2031,Retail Salespersons,3897860.0,False,False
+2018,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1477560.0,False,False
+2019,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1487870.0,False,False
+2020,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1427260.0,False,True
+2021,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1443630.0,False,False
+2022,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1495440.0,False,False
+2023,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1504570.0,False,False
+2024,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1495580.0,False,False
+2025,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1436680.0,False,False
+2018,43-4051,Customer Service Representatives,2871400.0,False,False
+2019,43-4051,Customer Service Representatives,2919230.0,False,False
+2020,43-4051,Customer Service Representatives,2833250.0,False,True
+2021,43-4051,Customer Service Representatives,2787070.0,False,False
+2022,43-4051,Customer Service Representatives,2879840.0,False,False
+2023,43-4051,Customer Service Representatives,2858710.0,False,False
+2024,43-4051,Customer Service Representatives,2725930.0,False,False
+2025,43-4051,Customer Service Representatives,2595750.0,False,False
+2018,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",2165310.0,False,False
+2019,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",2038340.0,False,False
+2020,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1850360.0,False,True
+2021,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1825980.0,False,False
+2022,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1826710.0,False,False
+2023,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1785430.0,False,False
+2024,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1737820.0,False,False
+2025,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1706790.0,False,False
+2018,43-9061,"Office Clerks, General",2972930.0,False,False
+2019,43-9061,"Office Clerks, General",2956060.0,False,False
+2020,43-9061,"Office Clerks, General",2788090.0,False,True
+2021,43-9061,"Office Clerks, General",2578180.0,False,False
+2022,43-9061,"Office Clerks, General",2517350.0,False,False
+2023,43-9061,"Office Clerks, General",2496370.0,False,False
+2024,43-9061,"Office Clerks, General",2510550.0,False,False
+2025,43-9061,"Office Clerks, General",2464940.0,False,False
+2018,49-9071,"Maintenance and Repair Workers, General",1384240.0,False,False
+2019,49-9071,"Maintenance and Repair Workers, General",1418990.0,False,False
+2020,49-9071,"Maintenance and Repair Workers, General",1357630.0,False,True
+2021,49-9071,"Maintenance and Repair Workers, General",1416740.0,False,False
+2022,49-9071,"Maintenance and Repair Workers, General",1485990.0,False,False
+2023,49-9071,"Maintenance and Repair Workers, General",1503150.0,False,False
+2024,49-9071,"Maintenance and Repair Workers, General",1531700.0,False,False
+2025,49-9071,"Maintenance and Repair Workers, General",1529700.0,False,False
+2018,53-3032,Heavy and Tractor-Trailer Truck Drivers,1800330.0,False,False
+2019,53-3032,Heavy and Tractor-Trailer Truck Drivers,1856130.0,False,False
+2020,53-3032,Heavy and Tractor-Trailer Truck Drivers,1797710.0,False,True
+2021,53-3032,Heavy and Tractor-Trailer Truck Drivers,1903420.0,False,False
+2022,53-3032,Heavy and Tractor-Trailer Truck Drivers,1984180.0,False,False
+2023,53-3032,Heavy and Tractor-Trailer Truck Drivers,2044400.0,False,False
+2024,53-3032,Heavy and Tractor-Trailer Truck Drivers,2070480.0,False,False
+2025,53-3032,Heavy and Tractor-Trailer Truck Drivers,2062040.0,False,False
+2018,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2893180.0,False,False
+2019,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2953170.0,False,False
+2020,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2805200.0,False,True
+2021,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2729010.0,False,False
+2022,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2934050.0,False,False
+2023,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",3008300.0,False,False
+2024,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2982530.0,False,False
+2025,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2950280.0,False,False
+2019,53-7065,Stockers and Order Fillers,2135850.0,False,False
+2020,53-7065,Stockers and Order Fillers,2210960.0,False,True
+2021,53-7065,Stockers and Order Fillers,2451430.0,False,False
+2022,53-7065,Stockers and Order Fillers,2842060.0,False,False
+2023,53-7065,Stockers and Order Fillers,2872680.0,False,False
+2024,53-7065,Stockers and Order Fillers,2779530.0,False,False
+2025,53-7065,Stockers and Order Fillers,2833810.0,False,False
+2026,41-2031,Retail Salespersons,3643499.370703892,True,False
+2027,41-2031,Retail Salespersons,3635927.615076053,True,False
+2026,35-3023,Fast Food and Counter Workers,3068511.6227687607,True,False
+2027,35-3023,Fast Food and Counter Workers,2972855.5754363383,True,False
+2026,11-1021,General and Operations Managers,4375101.149648272,True,False
+2027,11-1021,General and Operations Managers,4648040.73283943,True,False
+2026,29-1141,Registered Nurses,3346636.4150047246,True,False
+2027,29-1141,Registered Nurses,3408480.273109286,True,False
+2026,41-2011,Cashiers,3264633.942971251,True,False
+2027,41-2011,Cashiers,3254720.017086637,True,False
+2026,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",3330648.1958610555,True,False
+2027,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",3437835.904903472,True,False
+2026,53-7065,Stockers and Order Fillers,3519734.5149766398,True,False
+2027,53-7065,Stockers and Order Fillers,3718340.784175928,True,False
+2026,43-4051,Customer Service Representatives,2958530.297662023,True,False
+2027,43-4051,Customer Service Representatives,2987068.9739737324,True,False
+2026,43-9061,"Office Clerks, General",2364145.13629043,True,False
+2027,43-9061,"Office Clerks, General",2322488.7239404763,True,False
+2026,35-3031,Waiters and Waitresses,1708621.304892595,True,False
+2027,35-3031,Waiters and Waitresses,1605618.1880761087,True,False
+2026,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2369776.476998477,True,False
+2027,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2431895.567846843,True,False
+2026,53-3032,Heavy and Tractor-Trailer Truck Drivers,2258436.7210567966,True,False
+2027,53-3032,Heavy and Tractor-Trailer Truck Drivers,2328640.922085593,True,False
+2026,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1729262.090566795,True,False
+2027,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1708415.284246138,True,False
+2026,15-1252,Software Developers,2023484.506908675,True,False
+2027,15-1252,Software Developers,2145574.5090074358,True,False
+2026,49-9071,"Maintenance and Repair Workers, General",1631096.7835111762,True,False
+2027,49-9071,"Maintenance and Repair Workers, General",1671448.1994350643,True,False
+2026,13-2011,Accountants and Auditors,1614337.6101512315,True,False
+2027,13-2011,Accountants and Auditors,1671447.9426380454,True,False
+2026,31-1131,Nursing Assistants,1476884.1706062783,True,False
+2027,31-1131,Nursing Assistants,1518554.1716636636,True,False
+2026,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1596477.944496923,True,False
+2027,43-1011,First-Line Supervisors of Office and Administrative Support Workers,1625123.5352428316,True,False
+2026,25-9045,"Teaching Assistants, Except Postsecondary",1257079.34967018,True,False
+2027,25-9045,"Teaching Assistants, Except Postsecondary",1251998.059879213,True,False
+2026,35-2014,"Cooks, Restaurant",1329788.063658543,True,False
+2027,35-2014,"Cooks, Restaurant",1329019.5292846905,True,False

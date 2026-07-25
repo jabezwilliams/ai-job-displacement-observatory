@@ -236,3 +236,5 @@ data/external/
 # Python cache
 __pycache__/
 *.pyc
+
+data/tableau/tableau_unified.csv

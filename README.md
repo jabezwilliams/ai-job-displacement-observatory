@@ -4,26 +4,45 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-An end-to-end data analytics project quantifying AI-driven job displacement risk
-by occupation and U.S. metropolitan area across 938 occupations and 393 metro areas.
+An end-to-end data analytics project quantifying AI-driven job displacement
+risk by occupation and U.S. metropolitan area — across 938 occupations and
+393 U.S. metro areas, using 8 years of government labor market data (2018–2025).
 
-🔗 [Live Interactive Dashboard](https://public.tableau.com/views/AI-Job-Displacement-Risk-Observatory/AIDisplacementObservatory)
+🔗 **[View Live Dashboard →](https://public.tableau.com/views/AI-Job-Displacement-Risk-Observatory/AIDisplacementObservatory)**
 
 ---
 
-## What This Builds
+## What This Project Does
 
-A composite **AI Displacement Risk Index** (0–1 scale) built from four features:
+This project constructs a composite **AI Displacement Risk Index** scored at
+the occupation × metro area level, combining four independently sourced features:
 
 | Feature | Source | Weight |
 |---|---|---|
 | Automation Probability | Frey & Osborne (2013) | 40% |
-| AI Task Exposure | O*NET Work Activities | 25% |
-| Employment Trend | BLS OEWS 2018–2025 | 20% |
-| Wage Stagnation | BLS OEWS 2018–2025 | 15% |
+| AI Task Exposure Score | O*NET Work Activities | 25% |
+| Employment Trend Risk | BLS OEWS 2018–2025 | 20% |
+| Wage Stagnation Risk | BLS OEWS 2018–2025 | 15% |
 
-The pipeline ends with GPT-4o generating plain-language risk briefings for the
-50 highest-risk occupation × metro combinations, stored in PostgreSQL.
+The pipeline culminates in an **LLM-powered briefing engine** that generates
+plain-language displacement risk summaries for the 50 highest-risk occupation
+× metro combinations using GPT-4o, and Prophet-forecasted employment trends
+through 2027.
+
+---
+
+## Live Dashboard
+
+**[→ AI Job Displacement Risk Observatory on Tableau Public](https://public.tableau.com/views/AI-Job-Displacement-Risk-Observatory/AIDisplacementObservatory)**
+
+The interactive dashboard includes:
+- **U.S. State Risk Map** — employment-weighted average risk index by state
+- **Occupation Risk Ranking** — top 30 highest-risk occupations by composite index
+- **Employment Trend** — 2018–2025 historical employment plus Prophet forecasts through 2027
+- **Risk Tier Breakdown** — Low/Medium/High risk composition by major sector
+
+All four views are cross-linked — clicking any state, occupation, or risk tier
+filters the entire dashboard.
 
 ---
 
@@ -69,14 +88,14 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root:
 
-​``` 
-
+```
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=ai_observatory
 DB_USER=postgres
 DB_PASSWORD=your_password
 OPENAI_API_KEY=your_key
+```
 
 Run in order:
 
@@ -93,12 +112,19 @@ Then run notebooks 01 through 05 in Jupyter.
 
 ## Key Findings
 
-- ~37% of covered workers are in high-risk occupations (automation probability > 0.70)
-- Education is the strongest single predictor — less than high school roles average 0.85 vs 0.05 for doctoral-level roles
-- Employment was already declining in many high-risk occupations before AI became the headline risk
-- Office/Admin, Production, and Sales sectors show the highest concentration of high-risk employment
+1. **~37% of covered workers** are employed in high-risk occupations
+   (automation probability > 0.70)
+2. **Office/Admin, Production, and Sales** sectors show the highest concentration
+   of high-risk employment
+3. **Education level** is the strongest single predictor of automation risk —
+   occupations requiring less than high school education average 0.85
+   probability vs. 0.05 for doctoral-level roles
+4. **Employment is already declining** in many high-risk occupations
+   independent of AI — the displacement signal precedes the technology
+5. **Geographic variation** in state-level risk reflects industry mix more than
+   regional policy differences
 
 ---
 
-*Built by Jabez Williams · Purdue University B.S. Data Science · 2026*  
+*Built by Jabez Williams · Purdue University B.S. Data Science · 2026*
 [LinkedIn](https://www.linkedin.com/in/jabez-williams-7ab3611b3) · [Tableau Public](https://public.tableau.com/views/AI-Job-Displacement-Risk-Observatory/AIDisplacementObservatory)

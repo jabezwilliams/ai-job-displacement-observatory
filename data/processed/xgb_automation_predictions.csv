@@ -1,0 +1,174 @@
+occ_code,predicted_automation_prob,prediction_source,occ_title
+11-2033,0.60873634,xgboost,Fundraising Managers
+11-3012,0.17570964,xgboost,Administrative Services Managers
+11-3013,0.25583094,xgboost,Facilities Managers
+11-3013,0.24938692,xgboost,Facilities Managers
+11-9072,0.15898639,xgboost,"Entertainment and Recreation Managers, Except Gambling"
+11-9171,0.1368901,xgboost,Funeral Home Managers
+11-9179,0.088203125,xgboost,"Personal Service Managers, All Other"
+11-9179,0.19302408,xgboost,"Personal Service Managers, All Other"
+13-1071,0.61521006,xgboost,Human Resources Specialists
+13-1075,0.4869351,xgboost,Labor Relations Specialists
+13-1131,0.30503017,xgboost,Fundraisers
+15-1211,0.6049395,xgboost,Computer Systems Analysts
+15-1211,0.32758373,xgboost,Computer Systems Analysts
+15-1212,0.7140562,xgboost,Information Security Analysts
+15-1221,0.5092762,xgboost,Computer and Information Research Scientists
+15-1231,0.77370256,xgboost,Computer Network Support Specialists
+15-1232,0.6419145,xgboost,Computer User Support Specialists
+15-1241,0.57493806,xgboost,Computer Network Architects
+15-1241,0.50801307,xgboost,Computer Network Architects
+15-1242,0.54932225,xgboost,Database Administrators
+15-1243,0.48400927,xgboost,Database Architects
+15-1243,0.40345246,xgboost,Database Architects
+15-1244,0.61900413,xgboost,Network and Computer Systems Administrators
+15-1251,0.36860403,xgboost,Computer Programmers
+15-1252,0.4368181,xgboost,Software Developers
+15-1253,0.4979356,xgboost,Software Quality Assurance Analysts and Testers
+15-1254,0.43094626,xgboost,Web Developers
+15-1255,0.24640109,xgboost,Web and Digital Interface Designers
+15-1299,0.40101326,xgboost,"Computer Occupations, All Other"
+15-1299,0.47035375,xgboost,"Computer Occupations, All Other"
+15-1299,0.67508143,xgboost,"Computer Occupations, All Other"
+15-1299,0.55375874,xgboost,"Computer Occupations, All Other"
+15-1299,0.5110281,xgboost,"Computer Occupations, All Other"
+15-1299,0.4101115,xgboost,"Computer Occupations, All Other"
+15-2051,0.53128403,xgboost,Data Scientists
+15-2051,0.72952634,xgboost,Data Scientists
+15-2099,0.41714966,xgboost,"Mathematical Science Occupations, All Other"
+19-3033,0.19205225,xgboost,Clinical and Counseling Psychologists
+19-3034,0.45540142,xgboost,School Psychologists
+19-4012,0.5652437,xgboost,Agricultural Technicians
+19-4012,0.45637318,xgboost,Agricultural Technicians
+19-4013,0.5895901,xgboost,Food Science Technicians
+19-4042,0.43100727,xgboost,"Environmental Science and Protection Technicians, Including Health"
+19-4043,0.6259842,xgboost,"Geological Technicians, Except Hydrologic Technicians"
+19-4071,0.22958021,xgboost,Forest and Conservation Technicians
+19-5011,0.29739934,xgboost,Occupational Health and Safety Specialists
+19-5012,0.38807982,xgboost,Occupational Health and Safety Technicians
+21-1094,0.26150313,xgboost,Community Health Workers
+25-1011,0.24878281,xgboost,"Business Teachers, Postsecondary"
+25-1021,0.3203297,xgboost,"Computer Science Teachers, Postsecondary"
+25-1022,0.35333306,xgboost,"Mathematical Science Teachers, Postsecondary"
+25-1031,0.18437853,xgboost,"Architecture Teachers, Postsecondary"
+25-1032,0.21571036,xgboost,"Engineering Teachers, Postsecondary"
+25-1041,0.12524767,xgboost,"Agricultural Sciences Teachers, Postsecondary"
+25-1042,0.26696074,xgboost,"Biological Science Teachers, Postsecondary"
+25-1043,0.22763571,xgboost,"Forestry and Conservation Science Teachers, Postsecondary"
+25-1051,0.31583092,xgboost,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+25-1052,0.24356233,xgboost,"Chemistry Teachers, Postsecondary"
+25-1053,0.31430775,xgboost,"Environmental Science Teachers, Postsecondary"
+25-1054,0.2909436,xgboost,"Physics Teachers, Postsecondary"
+25-1061,0.28903893,xgboost,"Anthropology and Archeology Teachers, Postsecondary"
+25-1062,0.22093475,xgboost,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+25-1063,0.22410509,xgboost,"Economics Teachers, Postsecondary"
+25-1064,0.36550045,xgboost,"Geography Teachers, Postsecondary"
+25-1065,0.20759684,xgboost,"Political Science Teachers, Postsecondary"
+25-1066,0.18868242,xgboost,"Psychology Teachers, Postsecondary"
+25-1067,0.32739934,xgboost,"Sociology Teachers, Postsecondary"
+25-1071,0.2709712,xgboost,"Health Specialties Teachers, Postsecondary"
+25-1072,0.068067156,xgboost,"Nursing Instructors and Teachers, Postsecondary"
+25-1081,0.18059382,xgboost,"Education Teachers, Postsecondary"
+25-1082,0.30335975,xgboost,"Library Science Teachers, Postsecondary"
+25-1111,0.4015968,xgboost,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+25-1112,0.2118133,xgboost,"Law Teachers, Postsecondary"
+25-1113,0.31759048,xgboost,"Social Work Teachers, Postsecondary"
+25-1121,0.1010768,xgboost,"Art, Drama, and Music Teachers, Postsecondary"
+25-1122,0.24834944,xgboost,"Communications Teachers, Postsecondary"
+25-1123,0.21568522,xgboost,"English Language and Literature Teachers, Postsecondary"
+25-1124,0.3215349,xgboost,"Foreign Language and Literature Teachers, Postsecondary"
+25-1125,0.20884879,xgboost,"History Teachers, Postsecondary"
+25-1126,0.2611639,xgboost,"Philosophy and Religion Teachers, Postsecondary"
+25-1192,0.49556988,xgboost,"Family and Consumer Sciences Teachers, Postsecondary"
+25-1193,0.3429224,xgboost,"Recreation and Fitness Studies Teachers, Postsecondary"
+25-1194,0.29823303,xgboost,"Career/Technical Education Teachers, Postsecondary"
+25-2051,0.19419365,xgboost,"Special Education Teachers, Preschool"
+25-2057,0.55406827,xgboost,"Special Education Teachers, Middle School"
+25-2058,0.24173602,xgboost,"Special Education Teachers, Secondary School"
+25-2059,0.053457268,xgboost,"Special Education Teachers, All Other"
+25-3031,0.5682684,xgboost,"Substitute Teachers, Short-Term"
+25-3041,0.23423892,xgboost,Tutors
+25-4022,0.5023759,xgboost,Librarians and Media Collections Specialists
+25-9044,0.47905514,xgboost,"Teaching Assistants, Postsecondary"
+27-3023,0.44187257,xgboost,"News Analysts, Reporters, and Journalists"
+27-3092,0.8915909,xgboost,Court Reporters and Simultaneous Captioners
+29-1128,0.15443593,xgboost,Exercise Physiologists
+29-1129,0.14683926,xgboost,"Therapists, All Other"
+29-1129,0.049612787,xgboost,"Therapists, All Other"
+29-1141,0.093494445,xgboost,Registered Nurses
+29-1141,0.13610837,xgboost,Registered Nurses
+29-1141,0.27007627,xgboost,Registered Nurses
+29-1141,0.12880513,xgboost,Registered Nurses
+29-1141,0.10797927,xgboost,Registered Nurses
+29-1151,0.23701704,xgboost,Nurse Anesthetists
+29-1161,0.1152326,xgboost,Nurse Midwives
+29-1171,0.11939044,xgboost,Nurse Practitioners
+29-1211,0.35379386,xgboost,Anesthesiologists
+29-1213,0.24323812,xgboost,Dermatologists
+29-1214,0.1982853,xgboost,Emergency Medicine Physicians
+29-1215,0.64362216,xgboost,Family Medicine Physicians
+29-1216,0.30552238,xgboost,General Internal Medicine Physicians
+29-1217,0.3107997,xgboost,Neurologists
+29-1218,0.18452449,xgboost,Obstetricians and Gynecologists
+29-1221,0.3482739,xgboost,"Pediatricians, General"
+29-1222,0.4712497,xgboost,"Physicians, Pathologists"
+29-1223,0.17447115,xgboost,Psychiatrists
+29-1224,0.3445045,xgboost,Radiologists
+29-1229,0.31975704,xgboost,"Physicians, All Other"
+29-1229,0.3944774,xgboost,"Physicians, All Other"
+29-1229,0.21493359,xgboost,"Physicians, All Other"
+29-1229,0.13707718,xgboost,"Physicians, All Other"
+29-1229,0.3701456,xgboost,"Physicians, All Other"
+29-1229,0.10814484,xgboost,"Physicians, All Other"
+29-1241,0.29742202,xgboost,"Ophthalmologists, Except Pediatric"
+29-1291,0.17606032,xgboost,Acupuncturists
+29-1292,0.43941686,xgboost,Dental Hygienists
+29-1299,0.26392108,xgboost,"Healthcare Diagnosing or Treating Practitioners, All Other"
+29-1299,0.34226698,xgboost,"Healthcare Diagnosing or Treating Practitioners, All Other"
+29-2034,0.44360983,xgboost,Radiologic Technologists and Technicians
+29-2035,0.3433699,xgboost,Magnetic Resonance Imaging Technologists
+29-2036,0.5164505,xgboost,Medical Dosimetrists
+29-2057,0.5010602,xgboost,Ophthalmic Medical Technicians
+29-2092,0.6027065,xgboost,Hearing Aid Specialists
+29-2099,0.42856193,xgboost,"Health Technologists and Technicians, All Other"
+29-2099,0.41227886,xgboost,"Health Technologists and Technicians, All Other"
+29-2099,0.38018754,xgboost,"Health Technologists and Technicians, All Other"
+29-9092,0.3924471,xgboost,Genetic Counselors
+29-9093,0.32877403,xgboost,Surgical Assistants
+29-9099,0.13025174,xgboost,"Healthcare Practitioners and Technical Workers, All Other"
+31-1131,0.37834883,xgboost,Nursing Assistants
+31-1132,0.3624293,xgboost,Orderlies
+31-1133,0.18022785,xgboost,Psychiatric Aides
+31-9097,0.18219541,xgboost,Phlebotomists
+31-9099,0.29740077,xgboost,"Healthcare Support Workers, All Other"
+31-9099,0.47049916,xgboost,"Healthcare Support Workers, All Other"
+33-1091,0.25010332,xgboost,First-Line Supervisors of Security Workers
+33-9093,0.5751136,xgboost,Transportation Security Screeners
+33-9099,0.4540713,xgboost,"Protective Service Workers, All Other"
+35-3023,0.8857681,xgboost,Fast Food and Counter Workers
+35-3023,0.7492051,xgboost,Fast Food and Counter Workers
+39-1013,0.8659137,xgboost,First-Line Supervisors of Gambling Services Workers
+39-1022,0.6137211,xgboost,First-Line Supervisors of Personal Service Workers
+39-4031,0.32485542,xgboost,"Morticians, Undertakers, and Funeral Arrangers"
+45-2091,0.6690044,xgboost,Agricultural Equipment Operators
+45-2092,0.7640405,xgboost,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+45-2093,0.7827159,xgboost,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+47-2231,0.7037765,xgboost,Solar Photovoltaic Installers
+47-5022,0.7800311,xgboost,"Excavating and Loading Machine and Dragline Operators, Surface Mining"
+47-5023,0.78850454,xgboost,"Earth Drillers, Except Oil and Gas"
+47-5032,0.5439575,xgboost,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+47-5043,0.62601006,xgboost,"Roof Bolters, Mining"
+47-5044,0.7701311,xgboost,"Loading and Moving Machine Operators, Underground Mining"
+49-9081,0.64502794,xgboost,Wind Turbine Service Technicians
+49-9099,0.68038607,xgboost,"Installation, Maintenance, and Repair Workers, All Other"
+51-2051,0.78667766,xgboost,Fiberglass Laminators and Fabricators
+51-2061,0.8621786,xgboost,Timing Device Assemblers and Adjusters
+51-9124,0.76233745,xgboost,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+51-9161,0.88215995,xgboost,Computer Numerically Controlled Tool Operators
+51-9162,0.7222628,xgboost,Computer Numerically Controlled Tool Programmers
+53-1041,0.5251044,xgboost,Aircraft Cargo Handling Supervisors
+53-3051,0.6944291,xgboost,"Bus Drivers, School"
+53-3052,0.7452209,xgboost,"Bus Drivers, Transit and Intercity"
+53-3053,0.4617177,xgboost,Shuttle Drivers and Chauffeurs
+53-4022,0.83388877,xgboost,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
+53-7065,0.8323161,xgboost,Stockers and Order Fillers

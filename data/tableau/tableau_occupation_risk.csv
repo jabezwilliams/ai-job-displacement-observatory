@@ -1,0 +1,939 @@
+occ_code,occ_title,major_code,major_group_title,risk_index,automation_prob,ai_exposure_score,emp_trend_risk,wage_stagnation_risk,risk_tier,score_source,education_req,national_employment
+11-1011,Chief Executives,11,Management,0.3197,0.015,0.7867,0.415,0.2269,Medium,actual,Bachelor's degree,204350
+11-1011,Chief Executives,11,Management,0.3026,0.015,0.7183,0.415,0.2269,Medium,actual,Bachelor's degree,204350
+11-1021,General and Operations Managers,11,Management,0.4043,0.16,0.755,0.0348,0.9636,Medium,actual,Bachelor's degree,3503020
+11-2011,Advertising and Promotions Managers,11,Management,0.4432,0.039,0.59,0.727,0.8978,Medium,actual,Bachelor's degree,21470
+11-2021,Marketing Managers,11,Management,0.2741,0.014,0.5925,0.0223,0.7731,Low,actual,Bachelor's degree,395240
+11-2022,Sales Managers,11,Management,0.3165,0.013,0.7017,0.0209,0.8782,Medium,actual,Bachelor's degree,637080
+11-2032,Public Relations Managers,11,Management,0.312,0.03,0.5,0.5,0.5,Medium,imputed,,74850
+11-2033,Fundraising Managers,11,Management,0.358,0.03,0.6842,0.5,0.5,Medium,imputed,,38810
+11-3012,Administrative Services Managers,11,Management,0.3582,0.03,0.685,0.5,0.5,Medium,imputed,,263960
+11-3013,Facilities Managers,11,Management,0.3612,0.03,0.6967,0.5,0.5,Medium,imputed,,156180
+11-3013,Facilities Managers,11,Management,0.3768,0.03,0.7592,0.5,0.5,Medium,imputed,,156180
+11-3021,Computer and Information Systems Managers,11,Management,0.2807,0.035,0.7125,0.0153,0.57,Low,actual,Bachelor's degree,670570
+11-3031,Financial Managers,11,Management,0.3029,0.069,0.7358,0.0836,0.4972,Medium,actual,Bachelor's degree,841710
+11-3031,Financial Managers,11,Management,0.3168,0.069,0.7917,0.0836,0.4972,Medium,actual,Bachelor's degree,841710
+11-3031,Financial Managers,11,Management,0.3162,0.069,0.7892,0.0836,0.4972,Medium,actual,Bachelor's degree,841710
+11-3051,Industrial Production Managers,11,Management,0.324,0.03,0.6617,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3051,Industrial Production Managers,11,Management,0.38,0.03,0.8858,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3051,Industrial Production Managers,11,Management,0.3319,0.03,0.6933,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3051,Industrial Production Managers,11,Management,0.3287,0.03,0.6808,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3051,Industrial Production Managers,11,Management,0.35,0.03,0.7658,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3051,Industrial Production Managers,11,Management,0.3375,0.03,0.7158,0.0919,0.8543,Medium,actual,Bachelor's degree,246250
+11-3061,Purchasing Managers,11,Management,0.3327,0.03,0.7583,0.188,0.6232,Medium,actual,Bachelor's degree,84320
+11-3071,"Transportation, Storage, and Distribution Managers",11,Management,0.5349,0.59,0.6708,0.0139,0.8557,Medium,actual,High school diploma or equivalent,221180
+11-3071,"Transportation, Storage, and Distribution Managers",11,Management,0.538,0.59,0.6833,0.0139,0.8557,Medium,actual,High school diploma or equivalent,221180
+11-3111,Compensation and Benefits Managers,11,Management,0.6807,0.96,0.7183,0.0487,0.7157,Medium,actual,Bachelor's degree,22940
+11-3121,Human Resources Managers,11,Management,0.2528,0.0055,0.7417,0.0306,0.3936,Low,actual,Bachelor's degree,220660
+11-3131,Training and Development Managers,11,Management,0.3172,0.0063,0.7442,0.0961,0.7297,Medium,actual,Bachelor's degree,48050
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",11,Management,0.2909,0.047,0.6492,0.0891,0.6134,Low,actual,High school diploma or equivalent,6500
+11-9021,Construction Managers,11,Management,0.3473,0.071,0.7375,0.0877,0.7801,Medium,actual,Bachelor's degree,380360
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",11,Management,0.2727,0.015,0.5467,0.0515,0.7983,Low,actual,Bachelor's degree,73660
+11-9032,"Education Administrators, Kindergarten through Secondary",11,Management,0.3549,0.0046,0.7592,0.163,0.8711,Medium,actual,Master's degree,328330
+11-9033,"Education Administrators, Postsecondary",11,Management,0.3454,0.01,0.685,0.1532,0.93,Medium,actual,Master's degree,180470
+11-9039,"Education Administrators, All Other",11,Management,0.2965,0.03,0.5,0.0989,0.9314,Low,imputed,,55130
+11-9041,Architectural and Engineering Managers,11,Management,0.3406,0.017,0.7167,0.2228,0.7339,Medium,actual,Bachelor's degree,220260
+11-9041,Architectural and Engineering Managers,11,Management,0.3667,0.017,0.8208,0.2228,0.7339,Medium,actual,Bachelor's degree,220260
+11-9051,Food Service Managers,11,Management,0.3228,0.083,0.5667,0.3552,0.5126,Medium,actual,High school diploma or equivalent,238430
+11-9071,Gambling Managers,11,Management,0.368,0.091,0.6875,0.2242,0.7661,Medium,actual,High school diploma or equivalent,5030
+11-9072,"Entertainment and Recreation Managers, Except Gambling",11,Management,0.3387,0.03,0.6067,0.5,0.5,Medium,imputed,,37980
+11-9081,Lodging Managers,11,Management,0.2855,0.0039,0.6183,0.2465,0.5336,Low,actual,High school diploma or equivalent,42620
+11-9111,Medical and Health Services Managers,11,Management,0.3079,0.0073,0.81,0.0251,0.6499,Medium,actual,Bachelor's degree,597080
+11-9121,Natural Sciences Managers,11,Management,0.2815,0.018,0.84,0.0097,0.416,Low,actual,Bachelor's degree,108690
+11-9121,Natural Sciences Managers,11,Management,0.2478,0.018,0.705,0.0097,0.416,Low,actual,Bachelor's degree,108690
+11-9121,Natural Sciences Managers,11,Management,0.2678,0.018,0.785,0.0097,0.416,Low,actual,Bachelor's degree,108690
+11-9131,Postmasters and Mail Superintendents,11,Management,0.6536,0.75,0.7017,0.4875,0.5378,Medium,actual,High school diploma or equivalent,13810
+11-9141,"Property, Real Estate, and Community Association Managers",11,Management,0.6201,0.81,0.6267,0.0334,0.8852,Medium,actual,High school diploma or equivalent,311180
+11-9151,Social and Community Service Managers,11,Management,0.2796,0.0067,0.6617,0.0724,0.6471,Low,actual,Bachelor's degree,209330
+11-9161,Emergency Management Directors,11,Management,0.2937,0.003,0.735,0.0627,0.6415,Low,actual,Bachelor's degree,13500
+11-9171,Funeral Home Managers,11,Management,0.3672,0.03,0.7208,0.5,0.5,Medium,imputed,,13910
+11-9179,"Personal Service Managers, All Other",11,Management,0.3301,0.03,0.5725,0.5,0.5,Medium,imputed,,10450
+11-9179,"Personal Service Managers, All Other",11,Management,0.346,0.03,0.6358,0.5,0.5,Medium,imputed,,10450
+11-9199,"Managers, All Other",11,Management,0.3646,0.25,0.8158,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+11-9199,"Managers, All Other",11,Management,0.3637,0.25,0.8125,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+11-9199,"Managers, All Other",11,Management,0.3496,0.25,0.7558,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+11-9199,"Managers, All Other",11,Management,0.3427,0.25,0.7283,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+11-9199,"Managers, All Other",11,Management,0.3323,0.25,0.6867,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+11-9199,"Managers, All Other",11,Management,0.3527,0.25,0.7683,0.1003,0.2703,Medium,actual,Bachelor's degree,622190
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",13,Business and Financial Operations,0.3455,0.24,0.4092,0.7256,0.014,Medium,actual,Bachelor's degree,12620
+13-1031,"Claims Adjusters, Examiners, and Investigators",13,Business and Financial Operations,0.7683,0.98,0.7867,0.2827,0.8207,High,actual,High school diploma or equivalent,324230
+13-1032,"Insurance Appraisers, Auto Damage",13,Business and Financial Operations,0.8657,0.98,0.755,0.8343,0.7871,High,actual,Postsecondary nondegree award,11560
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3614,0.08,0.815,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3473,0.08,0.7583,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3554,0.08,0.7908,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3202,0.08,0.65,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3721,0.08,0.8575,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3298,0.08,0.6883,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1041,Compliance Officers,13,Business and Financial Operations,0.3485,0.08,0.7633,0.0822,0.7283,Medium,actual,Bachelor's degree,417070
+13-1051,Cost Estimators,13,Business and Financial Operations,0.6108,0.57,0.7892,0.3942,0.7115,Medium,actual,Bachelor's degree,224220
+13-1071,Human Resources Specialists,13,Business and Financial Operations,0.5142,0.57,0.7008,0.032,0.6975,Medium,imputed,,912430
+13-1074,Farm Labor Contractors,13,Business and Financial Operations,0.6344,0.97,0.3858,0.0292,0.9608,Medium,actual,No formal educational credential,310
+13-1075,Labor Relations Specialists,13,Business and Financial Operations,0.5528,0.57,0.635,0.7368,0.1246,Medium,imputed,,64810
+13-1081,Logisticians,13,Business and Financial Operations,0.3352,0.012,0.7325,0.0432,0.9244,Medium,actual,Bachelor's degree,251040
+13-1081,Logisticians,13,Business and Financial Operations,0.3344,0.012,0.7292,0.0432,0.9244,Medium,actual,Bachelor's degree,251040
+13-1081,Logisticians,13,Business and Financial Operations,0.3506,0.012,0.7942,0.0432,0.9244,Medium,actual,Bachelor's degree,251040
+13-1082,Project Management Specialists,13,Business and Financial Operations,0.528,0.57,0.5,0.5,0.5,Medium,imputed,,1066670
+13-1111,Management Analysts,13,Business and Financial Operations,0.3921,0.13,0.8,0.1142,0.7815,Medium,actual,Bachelor's degree,898280
+13-1121,"Meeting, Convention, and Event Planners",13,Business and Financial Operations,0.3062,0.037,0.675,0.124,0.6527,Medium,actual,Bachelor's degree,142860
+13-1131,Fundraisers,13,Business and Financial Operations,0.5036,0.57,0.71,0.0474,0.591,Medium,imputed,,111040
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",13,Business and Financial Operations,0.486,0.47,0.7342,0.0975,0.6331,Medium,actual,Bachelor's degree,112380
+13-1151,Training and Development Specialists,13,Business and Financial Operations,0.3131,0.014,0.6725,0.0265,0.8936,Medium,actual,Bachelor's degree,458300
+13-1161,Market Research Analysts and Marketing Specialists,13,Business and Financial Operations,0.5539,0.61,0.8575,0.0669,0.5476,Medium,actual,Bachelor's degree,899580
+13-1161,Market Research Analysts and Marketing Specialists,13,Business and Financial Operations,0.5387,0.61,0.7967,0.0669,0.5476,Medium,actual,Bachelor's degree,899580
+13-1199,"Business Operations Specialists, All Other",13,Business and Financial Operations,0.4801,0.23,0.7617,0.4443,0.7255,Medium,actual,Bachelor's degree,1087090
+13-1199,"Business Operations Specialists, All Other",13,Business and Financial Operations,0.4807,0.23,0.7642,0.4443,0.7255,Medium,actual,Bachelor's degree,1087090
+13-1199,"Business Operations Specialists, All Other",13,Business and Financial Operations,0.4591,0.23,0.6775,0.4443,0.7255,Medium,actual,Bachelor's degree,1087090
+13-1199,"Business Operations Specialists, All Other",13,Business and Financial Operations,0.4782,0.23,0.7542,0.4443,0.7255,Medium,actual,Bachelor's degree,1087090
+13-2011,Accountants and Auditors,13,Business and Financial Operations,0.7437,0.94,0.7992,0.2451,0.7927,High,actual,Bachelor's degree,1449500
+13-2031,Budget Analysts,13,Business and Financial Operations,0.8193,0.94,0.7725,0.6699,0.7745,High,actual,Bachelor's degree,47160
+13-2041,Credit Analysts,13,Business and Financial Operations,0.8415,0.98,0.7983,0.7201,0.7059,High,actual,Bachelor's degree,64390
+13-2051,Financial and Investment Analysts,13,Business and Financial Operations,0.3951,0.23,0.5,0.2131,0.9034,Medium,actual,Bachelor's degree,361980
+13-2052,Personal Financial Advisors,13,Business and Financial Operations,0.5297,0.58,0.8483,0.1045,0.4314,Medium,actual,Bachelor's degree,266800
+13-2053,Insurance Underwriters,13,Business and Financial Operations,0.7681,0.99,0.7825,0.3329,0.7325,High,actual,Bachelor's degree,105420
+13-2054,Financial Risk Specialists,13,Business and Financial Operations,0.528,0.57,0.5,0.5,0.5,Medium,imputed,,63850
+13-2061,Financial Examiners,13,Business and Financial Operations,0.4442,0.17,0.7933,0.2382,0.8683,Medium,actual,Bachelor's degree,67830
+13-2071,Credit Counselors,13,Business and Financial Operations,0.5048,0.04,0.7492,0.8203,0.916,Medium,actual,Bachelor's degree,27770
+13-2072,Loan Officers,13,Business and Financial Operations,0.8539,0.98,0.7775,0.656,0.909,High,actual,Bachelor's degree,274330
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",13,Business and Financial Operations,0.7797,0.93,0.7533,0.4318,0.8866,High,actual,Bachelor's degree,56610
+13-2082,Tax Preparers,13,Business and Financial Operations,0.7046,0.99,0.7808,0.2855,0.3754,High,actual,High school diploma or equivalent,76480
+13-2099,"Financial Specialists, All Other",13,Business and Financial Operations,0.529,0.33,0.775,0.4429,0.7647,Medium,actual,Bachelor's degree,132130
+13-2099,"Financial Specialists, All Other",13,Business and Financial Operations,0.5474,0.33,0.8483,0.4429,0.7647,Medium,actual,Bachelor's degree,132130
+15-1211,Computer Systems Analysts,15,Computer and Mathematical,0.4174,0.1285,0.7642,0.5,0.5,Medium,imputed,,519530
+15-1211,Computer Systems Analysts,15,Computer and Mathematical,0.4318,0.1285,0.8217,0.5,0.5,Medium,imputed,,519530
+15-1212,Information Security Analysts,15,Computer and Mathematical,0.4181,0.1285,0.7667,0.5,0.5,Medium,imputed,,190650
+15-1221,Computer and Information Research Scientists,15,Computer and Mathematical,0.4399,0.1285,0.8542,0.5,0.5,Medium,imputed,,37200
+15-1231,Computer Network Support Specialists,15,Computer and Mathematical,0.3908,0.1285,0.6575,0.5,0.5,Medium,imputed,,146190
+15-1232,Computer User Support Specialists,15,Computer and Mathematical,0.4045,0.1285,0.7125,0.5,0.5,Medium,imputed,,717190
+15-1241,Computer Network Architects,15,Computer and Mathematical,0.4066,0.1285,0.7208,0.5,0.5,Medium,imputed,,179740
+15-1241,Computer Network Architects,15,Computer and Mathematical,0.4102,0.1285,0.735,0.5,0.5,Medium,imputed,,179740
+15-1242,Database Administrators,15,Computer and Mathematical,0.4041,0.1285,0.7108,0.5,0.5,Medium,imputed,,69990
+15-1243,Database Architects,15,Computer and Mathematical,0.4318,0.1285,0.8217,0.5,0.5,Medium,imputed,,67140
+15-1243,Database Architects,15,Computer and Mathematical,0.4145,0.1285,0.7525,0.5,0.5,Medium,imputed,,67140
+15-1244,Network and Computer Systems Administrators,15,Computer and Mathematical,0.3933,0.1285,0.6675,0.5,0.5,Medium,imputed,,314340
+15-1251,Computer Programmers,15,Computer and Mathematical,0.4333,0.1285,0.8275,0.5,0.5,Medium,imputed,,92230
+15-1252,Software Developers,15,Computer and Mathematical,0.4214,0.1285,0.78,0.5,0.5,Medium,imputed,,1687890
+15-1253,Software Quality Assurance Analysts and Testers,15,Computer and Mathematical,0.4285,0.1285,0.8083,0.5,0.5,Medium,imputed,,186740
+15-1254,Web Developers,15,Computer and Mathematical,0.3958,0.1285,0.6775,0.5,0.5,Medium,imputed,,70190
+15-1255,Web and Digital Interface Designers,15,Computer and Mathematical,0.3993,0.1285,0.6917,0.5,0.5,Medium,imputed,,113330
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.3981,0.1285,0.6867,0.5,0.5,Medium,imputed,,435370
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.4322,0.1285,0.8233,0.5,0.5,Medium,imputed,,435370
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.4191,0.1285,0.7708,0.5,0.5,Medium,imputed,,435370
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.4283,0.1285,0.8075,0.5,0.5,Medium,imputed,,435370
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.4099,0.1285,0.7342,0.5,0.5,Medium,imputed,,435370
+15-1299,"Computer Occupations, All Other",15,Computer and Mathematical,0.4241,0.1285,0.7908,0.5,0.5,Medium,imputed,,435370
+15-2011,Actuaries,15,Computer and Mathematical,0.4235,0.21,0.8125,0.1295,0.7367,Medium,actual,Bachelor's degree,26670
+15-2021,Mathematicians,15,Computer and Mathematical,0.4721,0.047,0.7667,0.805,0.6709,Medium,actual,Master's degree,2030
+15-2031,Operations Research Analysts,15,Computer and Mathematical,0.4397,0.035,0.7983,0.4248,0.9412,Medium,actual,Bachelor's degree,108510
+15-2041,Statisticians,15,Computer and Mathematical,0.5767,0.22,0.9033,0.8565,0.6106,Medium,actual,Master's degree,29030
+15-2041,Statisticians,15,Computer and Mathematical,0.5444,0.22,0.7742,0.8565,0.6106,Medium,actual,Master's degree,29030
+15-2051,Data Scientists,15,Computer and Mathematical,0.432,0.1285,0.8225,0.5,0.5,Medium,imputed,,262440
+15-2051,Data Scientists,15,Computer and Mathematical,0.4343,0.1285,0.8317,0.5,0.5,Medium,imputed,,262440
+15-2099,"Mathematical Science Occupations, All Other",15,Computer and Mathematical,0.4426,0.1285,0.865,0.5,0.5,Medium,imputed,,3720
+17-1011,"Architects, Except Landscape and Naval",17,Architecture and Engineering,0.4038,0.018,0.7383,0.4499,0.8137,Medium,actual,Bachelor's degree,106770
+17-1012,Landscape Architects,17,Architecture and Engineering,0.3597,0.045,0.5933,0.4081,0.7451,Medium,actual,Bachelor's degree,19600
+17-1021,Cartographers and Photogrammetrists,17,Architecture and Engineering,0.6492,0.88,0.7783,0.1253,0.5168,Medium,actual,Bachelor's degree,14260
+17-1022,Surveyors,17,Architecture and Engineering,0.5369,0.38,0.855,0.2925,0.7507,Medium,actual,Bachelor's degree,50830
+17-1022,Surveyors,17,Architecture and Engineering,0.5389,0.38,0.8633,0.2925,0.7507,Medium,actual,Bachelor's degree,50830
+17-2011,Aerospace Engineers,17,Architecture and Engineering,0.4146,0.017,0.8658,0.3969,0.7465,Medium,actual,Bachelor's degree,67710
+17-2021,Agricultural Engineers,17,Architecture and Engineering,0.562,0.49,0.8517,0.6393,0.1681,Medium,actual,Bachelor's degree,1480
+17-2031,Bioengineers and Biomedical Engineers,17,Architecture and Engineering,0.3597,0.037,0.83,0.1713,0.6877,Medium,actual,Bachelor's degree,23480
+17-2041,Chemical Engineers,17,Architecture and Engineering,0.5219,0.017,0.7692,0.9123,0.9356,Medium,actual,Bachelor's degree,21070
+17-2051,Civil Engineers,17,Architecture and Engineering,0.3612,0.019,0.7183,0.1978,0.8964,Medium,actual,Bachelor's degree,367840
+17-2051,Civil Engineers,17,Architecture and Engineering,0.3758,0.019,0.7767,0.1978,0.8964,Medium,actual,Bachelor's degree,367840
+17-2051,Civil Engineers,17,Architecture and Engineering,0.3695,0.019,0.7517,0.1978,0.8964,Medium,actual,Bachelor's degree,367840
+17-2061,Computer Hardware Engineers,17,Architecture and Engineering,0.3424,0.22,0.8108,0.149,0.1457,Medium,actual,Bachelor's degree,76660
+17-2071,Electrical Engineers,17,Architecture and Engineering,0.4227,0.1,0.8158,0.3844,0.6793,Medium,actual,Bachelor's degree,198750
+17-2072,"Electronics Engineers, Except Computer",17,Architecture and Engineering,0.4496,0.025,0.7658,0.8635,0.5028,Medium,actual,Bachelor's degree,96900
+17-2072,"Electronics Engineers, Except Computer",17,Architecture and Engineering,0.4304,0.025,0.6892,0.8635,0.5028,Medium,actual,Bachelor's degree,96900
+17-2081,Environmental Engineers,17,Architecture and Engineering,0.4753,0.018,0.7417,0.8649,0.7311,Medium,actual,Bachelor's degree,38340
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17,Architecture and Engineering,0.4214,0.028,0.7483,0.766,0.4664,Medium,actual,Bachelor's degree,21450
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17,Architecture and Engineering,0.4154,0.028,0.7242,0.766,0.4664,Medium,actual,Bachelor's degree,21450
+17-2112,Industrial Engineers,17,Architecture and Engineering,0.3305,0.029,0.6975,0.1198,0.8039,Medium,actual,Bachelor's degree,365740
+17-2112,Industrial Engineers,17,Architecture and Engineering,0.3447,0.029,0.7542,0.1198,0.8039,Medium,actual,Bachelor's degree,365740
+17-2112,Industrial Engineers,17,Architecture and Engineering,0.3697,0.029,0.8542,0.1198,0.8039,Medium,actual,Bachelor's degree,365740
+17-2112,Industrial Engineers,17,Architecture and Engineering,0.352,0.029,0.7833,0.1198,0.8039,Medium,actual,Bachelor's degree,365740
+17-2121,Marine Engineers and Naval Architects,17,Architecture and Engineering,0.4478,0.01,0.7408,0.8579,0.5798,Medium,actual,Bachelor's degree,8250
+17-2131,Materials Engineers,17,Architecture and Engineering,0.4466,0.021,0.7858,0.7298,0.6387,Medium,actual,Bachelor's degree,22770
+17-2141,Mechanical Engineers,17,Architecture and Engineering,0.3852,0.011,0.6792,0.5195,0.7143,Medium,actual,Bachelor's degree,296810
+17-2141,Mechanical Engineers,17,Architecture and Engineering,0.4086,0.011,0.7725,0.5195,0.7143,Medium,actual,Bachelor's degree,296810
+17-2141,Mechanical Engineers,17,Architecture and Engineering,0.4209,0.011,0.8217,0.5195,0.7143,Medium,actual,Bachelor's degree,296810
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",17,Architecture and Engineering,0.4709,0.14,0.8117,0.4025,0.8768,Medium,actual,Bachelor's degree,6080
+17-2161,Nuclear Engineers,17,Architecture and Engineering,0.4162,0.07,0.7942,0.5543,0.5252,Medium,actual,Bachelor's degree,15280
+17-2171,Petroleum Engineers,17,Architecture and Engineering,0.6027,0.16,0.7917,0.9568,0.9958,Medium,actual,Bachelor's degree,18060
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3602,0.014,0.7983,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3338,0.014,0.6925,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.345,0.014,0.7375,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3598,0.014,0.7967,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3584,0.014,0.7908,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3642,0.014,0.8142,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3421,0.014,0.7258,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-2199,"Engineers, All Other",17,Architecture and Engineering,0.3296,0.014,0.6758,0.3593,0.5546,Medium,actual,Bachelor's degree,154070
+17-3011,Architectural and Civil Drafters,17,Architecture and Engineering,0.541,0.52,0.6483,0.3914,0.6176,Medium,actual,Associate's degree,103700
+17-3012,Electrical and Electronics Drafters,17,Architecture and Engineering,0.744,0.81,0.6617,0.8663,0.542,High,actual,Associate's degree,17920
+17-3013,Mechanical Drafters,17,Architecture and Engineering,0.6739,0.68,0.6117,0.8691,0.5014,Medium,actual,Associate's degree,39960
+17-3019,"Drafters, All Other",17,Architecture and Engineering,0.3576,0.12,0.5,0.4986,0.5658,Medium,imputed,,14470
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,17,Architecture and Engineering,0.4887,0.48,0.7667,0.3022,0.2969,Medium,actual,Associate's degree,11280
+17-3022,Civil Engineering Technologists and Technicians,17,Architecture and Engineering,0.6705,0.75,0.7225,0.5418,0.5434,Medium,actual,Associate's degree,68520
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,17,Architecture and Engineering,0.7766,0.84,0.705,0.8398,0.6429,High,actual,Associate's degree,95130
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17,Architecture and Engineering,0.6292,0.81,0.71,0.2521,0.5154,Medium,actual,Associate's degree,15520
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17,Architecture and Engineering,0.6157,0.81,0.6558,0.2521,0.5154,Medium,actual,Associate's degree,15520
+17-3025,Environmental Engineering Technologists and Technicians,17,Architecture and Engineering,0.5681,0.25,0.6583,0.8788,0.8515,Medium,actual,Associate's degree,12190
+17-3026,Industrial Engineering Technologists and Technicians,17,Architecture and Engineering,0.3379,0.03,0.61,0.2702,0.7955,Medium,actual,Associate's degree,75570
+17-3026,Industrial Engineering Technologists and Technicians,17,Architecture and Engineering,0.3885,0.03,0.8125,0.2702,0.7955,Medium,actual,Associate's degree,75570
+17-3027,Mechanical Engineering Technologists and Technicians,17,Architecture and Engineering,0.5301,0.38,0.7533,0.6978,0.3347,Medium,actual,Associate's degree,36190
+17-3027,Mechanical Engineering Technologists and Technicians,17,Architecture and Engineering,0.5238,0.38,0.7283,0.6978,0.3347,Medium,actual,Associate's degree,36190
+17-3028,Calibration Technologists and Technicians,17,Architecture and Engineering,0.348,0.12,0.5,0.5,0.5,Medium,imputed,,16540
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17,Architecture and Engineering,0.5762,0.24,0.8225,0.8677,0.6737,Medium,actual,Associate's degree,59930
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17,Architecture and Engineering,0.5448,0.24,0.6967,0.8677,0.6737,Medium,actual,Associate's degree,59930
+17-3031,Surveying and Mapping Technicians,17,Architecture and Engineering,0.7369,0.96,0.7175,0.312,0.7409,High,actual,High school diploma or equivalent,58010
+19-1011,Animal Scientists,19,"Life, Physical, and Social Science",0.3202,0.061,0.825,0.1797,0.3571,Medium,actual,Bachelor's degree,3100
+19-1012,Food Scientists and Technologists,19,"Life, Physical, and Social Science",0.3853,0.077,0.8075,0.5153,0.3305,Medium,actual,Bachelor's degree,13060
+19-1013,Soil and Plant Scientists,19,"Life, Physical, and Social Science",0.393,0.021,0.8308,0.4109,0.6317,Medium,actual,Bachelor's degree,15730
+19-1021,Biochemists and Biophysicists,19,"Life, Physical, and Social Science",0.3956,0.027,0.95,0.2103,0.7017,Medium,actual,Doctoral or professional degree,33830
+19-1022,Microbiologists,19,"Life, Physical, and Social Science",0.4396,0.012,0.8108,0.5682,0.7899,Medium,actual,Bachelor's degree,18940
+19-1023,Zoologists and Wildlife Biologists,19,"Life, Physical, and Social Science",0.5034,0.3,0.7342,0.468,0.7087,Medium,actual,Bachelor's degree,18120
+19-1029,"Biological Scientists, All Other",19,"Life, Physical, and Social Science",0.3148,0.015,0.8383,0.117,0.5056,Medium,actual,Bachelor's degree,55850
+19-1029,"Biological Scientists, All Other",19,"Life, Physical, and Social Science",0.3219,0.015,0.8667,0.117,0.5056,Medium,actual,Bachelor's degree,55850
+19-1029,"Biological Scientists, All Other",19,"Life, Physical, and Social Science",0.3252,0.015,0.88,0.117,0.5056,Medium,actual,Bachelor's degree,55850
+19-1029,"Biological Scientists, All Other",19,"Life, Physical, and Social Science",0.3242,0.015,0.8758,0.117,0.5056,Medium,actual,Bachelor's degree,55850
+19-1031,Conservation Scientists,19,"Life, Physical, and Social Science",0.3819,0.016,0.8033,0.2284,0.8599,Medium,actual,Bachelor's degree,25950
+19-1031,Conservation Scientists,19,"Life, Physical, and Social Science",0.3625,0.016,0.7258,0.2284,0.8599,Medium,actual,Bachelor's degree,25950
+19-1031,Conservation Scientists,19,"Life, Physical, and Social Science",0.3444,0.016,0.6533,0.2284,0.8599,Medium,actual,Bachelor's degree,25950
+19-1032,Foresters,19,"Life, Physical, and Social Science",0.3146,0.0081,0.7575,0.1699,0.5868,Medium,actual,Bachelor's degree,10430
+19-1041,Epidemiologists,19,"Life, Physical, and Social Science",0.3655,0.2,0.8867,0.0167,0.4034,Medium,actual,Master's degree,12090
+19-1042,"Medical Scientists, Except Epidemiologists",19,"Life, Physical, and Social Science",0.3191,0.0045,0.7725,0.0557,0.7535,Medium,actual,Doctoral or professional degree,172340
+19-1099,"Life Scientists, All Other",19,"Life, Physical, and Social Science",0.3342,0.061,0.5,0.3524,0.7619,Medium,imputed,,7460
+19-2011,Astronomers,19,"Life, Physical, and Social Science",0.4596,0.041,0.8767,0.5111,0.8123,Medium,actual,Doctoral or professional degree,2120
+19-2012,Physicists,19,"Life, Physical, and Social Science",0.325,0.1,0.8442,0.2354,0.1793,Medium,actual,Doctoral or professional degree,20430
+19-2021,Atmospheric and Space Scientists,19,"Life, Physical, and Social Science",0.6828,0.67,0.7875,0.3733,0.9552,Medium,actual,Bachelor's degree,10000
+19-2031,Chemists,19,"Life, Physical, and Social Science",0.4619,0.1,0.7883,0.5167,0.8095,Medium,actual,Bachelor's degree,82770
+19-2032,Materials Scientists,19,"Life, Physical, and Social Science",0.3819,0.021,0.8175,0.3384,0.6765,Medium,actual,Bachelor's degree,8470
+19-2041,"Environmental Scientists and Specialists, Including Health",19,"Life, Physical, and Social Science",0.4015,0.033,0.7883,0.3134,0.8571,Medium,actual,Bachelor's degree,89250
+19-2041,"Environmental Scientists and Specialists, Including Health",19,"Life, Physical, and Social Science",0.3847,0.033,0.7208,0.3134,0.8571,Medium,actual,Bachelor's degree,89250
+19-2041,"Environmental Scientists and Specialists, Including Health",19,"Life, Physical, and Social Science",0.393,0.033,0.7542,0.3134,0.8571,Medium,actual,Bachelor's degree,89250
+19-2041,"Environmental Scientists and Specialists, Including Health",19,"Life, Physical, and Social Science",0.4101,0.033,0.8225,0.3134,0.8571,Medium,actual,Bachelor's degree,89250
+19-2042,"Geoscientists, Except Hydrologists and Geographers",19,"Life, Physical, and Social Science",0.7648,0.63,0.8358,0.7911,0.9706,High,actual,Bachelor's degree,23470
+19-2043,Hydrologists,19,"Life, Physical, and Social Science",0.43,0.014,0.8558,0.6017,0.6008,Medium,actual,Bachelor's degree,5850
+19-2099,"Physical Scientists, All Other",19,"Life, Physical, and Social Science",0.5451,0.43,0.8625,0.1309,0.8754,Medium,actual,Bachelor's degree,22300
+19-3011,Economists,19,"Life, Physical, and Social Science",0.6,0.43,0.8392,0.5585,0.7101,Medium,actual,Master's degree,17790
+19-3011,Economists,19,"Life, Physical, and Social Science",0.59,0.43,0.7992,0.5585,0.7101,Medium,actual,Master's degree,17790
+19-3022,Survey Researchers,19,"Life, Physical, and Social Science",0.5669,0.23,0.8633,0.8719,0.5644,Medium,actual,Master's degree,8290
+19-3032,Industrial-Organizational Psychologists,19,"Life, Physical, and Social Science",0.3092,0.012,0.83,0.4749,0.0126,Medium,actual,Master's degree,790
+19-3033,Clinical and Counseling Psychologists,19,"Life, Physical, and Social Science",0.3944,0.061,0.78,0.5,0.5,Medium,imputed,,75990
+19-3034,School Psychologists,19,"Life, Physical, and Social Science",0.3338,0.061,0.5375,0.5,0.5,Medium,imputed,,63940
+19-3039,"Psychologists, All Other",19,"Life, Physical, and Social Science",0.3807,0.0043,0.9233,0.0738,0.8894,Medium,actual,Master's degree,18820
+19-3039,"Psychologists, All Other",19,"Life, Physical, and Social Science",0.3859,0.0043,0.9442,0.0738,0.8894,Medium,actual,Master's degree,18820
+19-3041,Sociologists,19,"Life, Physical, and Social Science",0.4655,0.059,0.8725,0.7451,0.4986,Medium,actual,Master's degree,2260
+19-3051,Urban and Regional Planners,19,"Life, Physical, and Social Science",0.3771,0.13,0.7408,0.2298,0.6261,Medium,actual,Master's degree,44230
+19-3091,Anthropologists and Archeologists,19,"Life, Physical, and Social Science",0.3594,0.0077,0.8517,0.0418,0.9006,Medium,actual,Master's degree,8990
+19-3092,Geographers,19,"Life, Physical, and Social Science",0.4851,0.25,0.8483,0.4819,0.5112,Medium,actual,Bachelor's degree,1400
+19-3093,Historians,19,"Life, Physical, and Social Science",0.5192,0.44,0.7233,0.273,0.7185,Medium,actual,Master's degree,3450
+19-3094,Political Scientists,19,"Life, Physical, and Social Science",0.4298,0.039,0.8467,0.5181,0.6597,Medium,actual,Master's degree,5540
+19-3099,"Social Scientists and Related Workers, All Other",19,"Life, Physical, and Social Science",0.3865,0.04,0.8042,0.4178,0.5728,Medium,actual,Bachelor's degree,37100
+19-4012,Agricultural Technicians,19,"Life, Physical, and Social Science",0.3642,0.061,0.6592,0.5,0.5,Medium,imputed,,15130
+19-4012,Agricultural Technicians,19,"Life, Physical, and Social Science",0.3742,0.061,0.6992,0.5,0.5,Medium,imputed,,15130
+19-4013,Food Science Technicians,19,"Life, Physical, and Social Science",0.3625,0.061,0.6525,0.5,0.5,Medium,imputed,,14600
+19-4021,Biological Technicians,19,"Life, Physical, and Social Science",0.5463,0.3,0.8917,0.6588,0.4776,Medium,actual,Bachelor's degree,69620
+19-4031,Chemical Technicians,19,"Life, Physical, and Social Science",0.6698,0.57,0.8183,0.6936,0.6569,Medium,actual,Associate's degree,57540
+19-4042,"Environmental Science and Protection Technicians, Including Health",19,"Life, Physical, and Social Science",0.3813,0.061,0.7275,0.5,0.5,Medium,imputed,,34670
+19-4043,"Geological Technicians, Except Hydrologic Technicians",19,"Life, Physical, and Social Science",0.38,0.061,0.7225,0.5,0.5,Medium,imputed,,6980
+19-4044,Hydrologic Technicians,19,"Life, Physical, and Social Science",0.3244,0.061,0.5,0.5,0.5,Medium,imputed,,2840
+19-4051,Nuclear Technicians,19,"Life, Physical, and Social Science",0.6905,0.85,0.755,0.6671,0.1891,Medium,actual,Associate's degree,6470
+19-4051,Nuclear Technicians,19,"Life, Physical, and Social Science",0.6974,0.85,0.7825,0.6671,0.1891,Medium,actual,Associate's degree,6470
+19-4061,Social Science Research Assistants,19,"Life, Physical, and Social Science",0.6627,0.65,0.8692,0.6769,0.3333,Medium,actual,Bachelor's degree,30640
+19-4071,Forest and Conservation Technicians,19,"Life, Physical, and Social Science",0.3621,0.061,0.6508,0.5,0.5,Medium,imputed,,30410
+19-4092,Forensic Science Technicians,19,"Life, Physical, and Social Science",0.3098,0.0095,0.7467,0.2019,0.5266,Medium,actual,Bachelor's degree,19120
+19-4099,"Life, Physical, and Social Science Technicians, All Other",19,"Life, Physical, and Social Science",0.5849,0.61,0.785,0.2758,0.5966,Medium,actual,Associate's degree,73910
+19-4099,"Life, Physical, and Social Science Technicians, All Other",19,"Life, Physical, and Social Science",0.5759,0.61,0.7492,0.2758,0.5966,Medium,actual,Associate's degree,73910
+19-5011,Occupational Health and Safety Specialists,19,"Life, Physical, and Social Science",0.4048,0.061,0.8217,0.5,0.5,Medium,imputed,,140610
+19-5012,Occupational Health and Safety Technicians,19,"Life, Physical, and Social Science",0.389,0.061,0.7583,0.5,0.5,Medium,imputed,,30590
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",21,Community and Social Service,0.3565,0.0085,0.7708,0.1727,0.8389,Medium,actual,Master's degree,353310
+21-1013,Marriage and Family Therapists,21,Community and Social Service,0.195,0.014,0.6417,0.085,0.0798,Low,actual,Master's degree,66740
+21-1015,Rehabilitation Counselors,21,Community and Social Service,0.3704,0.0094,0.6908,0.6797,0.3866,Medium,actual,Master's degree,94740
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",21,Community and Social Service,0.1667,0.014,0.5,0.0084,0.2297,Low,imputed,,491930
+21-1019,"Counselors, All Other",21,Community and Social Service,0.3132,0.014,0.5,0.3677,0.7269,Medium,imputed,,28580
+21-1021,"Child, Family, and School Social Workers",21,Community and Social Service,0.2799,0.028,0.6725,0.1783,0.4328,Low,actual,Bachelor's degree,392550
+21-1022,Healthcare Social Workers,21,Community and Social Service,0.3178,0.0035,0.605,0.3036,0.6961,Medium,actual,Master's degree,187630
+21-1023,Mental Health and Substance Abuse Social Workers,21,Community and Social Service,0.2695,0.0031,0.7625,0.2674,0.1611,Low,actual,Bachelor's degree,132810
+21-1029,"Social Workers, All Other",21,Community and Social Service,0.3118,0.014,0.5,0.3398,0.7549,Medium,imputed,,62930
+21-1091,Health Education Specialists,21,Community and Social Service,0.3752,0.045,0.7725,0.2994,0.6947,Medium,actual,Bachelor's degree,65690
+21-1092,Probation Officers and Correctional Treatment Specialists,21,Community and Social Service,0.4645,0.25,0.7167,0.4582,0.6246,Medium,actual,Bachelor's degree,89390
+21-1093,Social and Human Service Assistants,21,Community and Social Service,0.3121,0.13,0.6358,0.3008,0.2731,Medium,actual,High school diploma or equivalent,437860
+21-1094,Community Health Workers,21,Community and Social Service,0.3199,0.014,0.7458,0.3315,0.4104,Medium,imputed,,61660
+21-1099,"Community and Social Service Specialists, All Other",21,Community and Social Service,0.2573,0.014,0.5,0.3343,0.3992,Low,imputed,,107730
+21-2011,Clergy,21,Community and Social Service,0.25,0.0081,0.4067,0.2897,0.5812,Low,actual,Bachelor's degree,57200
+21-2021,"Directors, Religious Activities and Education",21,Community and Social Service,0.2809,0.025,0.54,0.4526,0.3025,Low,actual,Bachelor's degree,22160
+21-2099,"Religious Workers, All Other",21,Community and Social Service,0.1358,0.014,0.5,0.007,0.0252,Low,imputed,,15760
+23-1011,Lawyers,23,Legal,0.3047,0.035,0.7308,0.2214,0.4244,Medium,actual,Doctoral or professional degree,754500
+23-1012,Judicial Law Clerks,23,Legal,0.5975,0.41,0.69,0.7744,0.7073,Medium,actual,Doctoral or professional degree,13290
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",23,Legal,0.5824,0.64,0.7283,0.2563,0.6204,Medium,actual,Doctoral or professional degree,16370
+23-1022,"Arbitrators, Mediators, and Conciliators",23,Legal,0.306,0.06,0.73,0.0446,0.6036,Medium,actual,Bachelor's degree,9210
+23-1023,"Judges, Magistrate Judges, and Magistrates",23,Legal,0.6185,0.4,0.7442,0.734,0.8375,Medium,actual,Doctoral or professional degree,24030
+23-2011,Paralegals and Legal Assistants,23,Legal,0.6578,0.94,0.7342,0.1407,0.4678,Medium,actual,Associate's degree,392880
+23-2093,"Title Examiners, Abstractors, and Searchers",23,Legal,0.8409,0.99,0.8567,0.5961,0.7437,High,actual,High school diploma or equivalent,48580
+23-2099,"Legal Support Workers, All Other",23,Legal,0.4479,0.41,0.5,0.3607,0.5784,Medium,imputed,,46760
+25-1011,"Business Teachers, Postsecondary",25,Educational Instruction and Library,0.4471,0.13,0.5892,0.5237,0.9538,Medium,imputed,,82150
+25-1021,"Computer Science Teachers, Postsecondary",25,Educational Instruction and Library,0.4562,0.13,0.7608,0.344,0.9678,Medium,imputed,,35480
+25-1022,"Mathematical Science Teachers, Postsecondary",25,Educational Instruction and Library,0.4716,0.13,0.6058,0.6003,0.9874,Medium,imputed,,47670
+25-1031,"Architecture Teachers, Postsecondary",25,Educational Instruction and Library,0.4341,0.13,0.695,0.2981,0.9916,Medium,imputed,,7700
+25-1032,"Engineering Teachers, Postsecondary",25,Educational Instruction and Library,0.4642,0.13,0.7717,0.3747,0.9622,Medium,imputed,,40270
+25-1041,"Agricultural Sciences Teachers, Postsecondary",25,Educational Instruction and Library,0.5292,0.13,0.7375,0.7549,0.9454,Medium,imputed,,8920
+25-1042,"Biological Science Teachers, Postsecondary",25,Educational Instruction and Library,0.5173,0.13,0.8458,0.532,0.9832,Medium,imputed,,50190
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",25,Educational Instruction and Library,0.5722,0.13,0.8242,0.8524,0.958,Medium,imputed,,1520
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25,Educational Instruction and Library,0.5089,0.13,0.7425,0.6602,0.9286,Medium,imputed,,9900
+25-1052,"Chemistry Teachers, Postsecondary",25,Educational Instruction and Library,0.4856,0.13,0.7092,0.5864,0.9272,Medium,imputed,,19980
+25-1053,"Environmental Science Teachers, Postsecondary",25,Educational Instruction and Library,0.4343,0.13,0.7142,0.3162,0.937,Medium,imputed,,6690
+25-1054,"Physics Teachers, Postsecondary",25,Educational Instruction and Library,0.5098,0.13,0.7992,0.5599,0.9734,Medium,imputed,,13090
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",25,Educational Instruction and Library,0.5567,0.13,0.9192,0.6741,0.9342,Medium,imputed,,5240
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25,Educational Instruction and Library,0.4083,0.13,0.675,0.2549,0.9104,Medium,imputed,,11300
+25-1063,"Economics Teachers, Postsecondary",25,Educational Instruction and Library,0.4807,0.13,0.6925,0.6435,0.8459,Medium,imputed,,11560
+25-1064,"Geography Teachers, Postsecondary",25,Educational Instruction and Library,0.5419,0.13,0.8242,0.7354,0.9118,Medium,imputed,,3330
+25-1065,"Political Science Teachers, Postsecondary",25,Educational Instruction and Library,0.457,0.13,0.735,0.3816,0.9664,Medium,imputed,,16970
+25-1066,"Psychology Teachers, Postsecondary",25,Educational Instruction and Library,0.4511,0.13,0.7475,0.3259,0.9804,Medium,imputed,,41530
+25-1067,"Sociology Teachers, Postsecondary",25,Educational Instruction and Library,0.5448,0.13,0.86,0.7228,0.888,Medium,imputed,,11850
+25-1069,"Social Sciences Teachers, Postsecondary, All Other",25,Educational Instruction and Library,0.442,0.13,0.5,0.5794,0.9944,Medium,imputed,,16580
+25-1071,"Health Specialties Teachers, Postsecondary",25,Educational Instruction and Library,0.4118,0.13,0.7233,0.3106,0.7787,Medium,imputed,,221270
+25-1072,"Nursing Instructors and Teachers, Postsecondary",25,Educational Instruction and Library,0.4135,0.13,0.8025,0.071,0.9776,Medium,imputed,,77960
+25-1081,"Education Teachers, Postsecondary",25,Educational Instruction and Library,0.4663,0.13,0.6783,0.4944,0.972,Medium,imputed,,60830
+25-1082,"Library Science Teachers, Postsecondary",25,Educational Instruction and Library,0.5488,0.13,0.8042,0.8162,0.8838,Medium,imputed,,3630
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",25,Educational Instruction and Library,0.4751,0.13,0.6842,0.688,0.7633,Medium,imputed,,13150
+25-1112,"Law Teachers, Postsecondary",25,Educational Instruction and Library,0.4114,0.13,0.6908,0.2159,0.9566,Medium,imputed,,20060
+25-1113,"Social Work Teachers, Postsecondary",25,Educational Instruction and Library,0.4817,0.13,0.745,0.4903,0.9692,Medium,imputed,,12610
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",25,Educational Instruction and Library,0.4309,0.13,0.5642,0.5,0.9188,Medium,imputed,,93560
+25-1122,"Communications Teachers, Postsecondary",25,Educational Instruction and Library,0.4593,0.13,0.7033,0.4777,0.9062,Medium,imputed,,29420
+25-1123,"English Language and Literature Teachers, Postsecondary",25,Educational Instruction and Library,0.5142,0.13,0.7117,0.7312,0.9202,Medium,imputed,,57720
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",25,Educational Instruction and Library,0.492,0.13,0.5417,0.8231,0.9328,Medium,imputed,,19830
+25-1125,"History Teachers, Postsecondary",25,Educational Instruction and Library,0.5294,0.13,0.8625,0.624,0.9132,Medium,imputed,,18790
+25-1126,"Philosophy and Religion Teachers, Postsecondary",25,Educational Instruction and Library,0.4866,0.13,0.6225,0.6825,0.9496,Medium,imputed,,20460
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",25,Educational Instruction and Library,0.3623,0.13,0.5692,0.1058,0.979,Medium,imputed,,2770
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",25,Educational Instruction and Library,0.5116,0.13,0.6917,0.8315,0.8025,Medium,imputed,,12630
+25-1194,"Career/Technical Education Teachers, Postsecondary",25,Educational Instruction and Library,0.392,0.13,0.6033,0.4373,0.6779,Medium,imputed,,114110
+25-1199,"Postsecondary Teachers, All Other",25,Educational Instruction and Library,0.4609,0.13,0.5,0.7702,0.8655,Medium,imputed,,149840
+25-2011,"Preschool Teachers, Except Special Education",25,Educational Instruction and Library,0.2454,0.0074,0.3808,0.2813,0.6064,Low,actual,Associate's degree,478780
+25-2012,"Kindergarten Teachers, Except Special Education",25,Educational Instruction and Library,0.4831,0.15,0.5933,0.7479,0.8347,Medium,actual,Bachelor's degree,108870
+25-2021,"Elementary School Teachers, Except Special Education",25,Educational Instruction and Library,0.3707,0.0044,0.5408,0.507,0.8824,Medium,actual,Bachelor's degree,1388390
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",25,Educational Instruction and Library,0.4727,0.17,0.7125,0.4638,0.8922,Medium,actual,Bachelor's degree,620090
+25-2023,"Career/Technical Education Teachers, Middle School",25,Educational Instruction and Library,0.4235,0.26,0.6725,0.0655,0.9216,Medium,actual,Bachelor's degree,16870
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",25,Educational Instruction and Library,0.3878,0.0078,0.6542,0.4735,0.8431,Medium,actual,Bachelor's degree,1065210
+25-2032,"Career/Technical Education Teachers, Secondary School",25,Educational Instruction and Library,0.3373,0.0088,0.7517,0.0529,0.902,Medium,actual,Bachelor's degree,111420
+25-2051,"Special Education Teachers, Preschool",25,Educational Instruction and Library,0.3446,0.13,0.6567,0.156,0.6485,Medium,imputed,,29510
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",25,Educational Instruction and Library,0.3271,0.13,0.5,0.0696,0.9076,Medium,imputed,,260870
+25-2057,"Special Education Teachers, Middle School",25,Educational Instruction and Library,0.3655,0.13,0.5542,0.5,0.5,Medium,imputed,,95200
+25-2058,"Special Education Teachers, Secondary School",25,Educational Instruction and Library,0.4178,0.13,0.7633,0.5,0.5,Medium,imputed,,163930
+25-2059,"Special Education Teachers, All Other",25,Educational Instruction and Library,0.3913,0.13,0.5783,0.61,0.4846,Medium,imputed,,33930
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25,Educational Instruction and Library,0.5255,0.19,0.5,0.9178,0.9398,Medium,actual,Bachelor's degree,37310
+25-3021,Self-Enrichment Teachers,25,Educational Instruction and Library,0.3129,0.13,0.5333,0.0864,0.7353,Medium,actual,High school diploma or equivalent,332110
+25-3031,"Substitute Teachers, Short-Term",25,Educational Instruction and Library,0.3374,0.13,0.4417,0.5,0.5,Medium,imputed,,524770
+25-3041,Tutors,25,Educational Instruction and Library,0.3762,0.13,0.5967,0.5,0.5,Medium,imputed,,175070
+25-3099,"Teachers and Instructors, All Other",25,Educational Instruction and Library,0.352,0.13,0.5,0.5,0.5,Medium,imputed,,113790
+25-4011,Archivists,25,Educational Instruction and Library,0.6296,0.76,0.8192,0.1588,0.5938,Medium,actual,Master's degree,7970
+25-4012,Curators,25,Educational Instruction and Library,0.4039,0.0068,0.7717,0.5014,0.7199,Medium,actual,Master's degree,12150
+25-4013,Museum Technicians and Conservators,25,Educational Instruction and Library,0.603,0.59,0.58,0.5752,0.7129,Medium,actual,Bachelor's degree,12310
+25-4022,Librarians and Media Collections Specialists,25,Educational Instruction and Library,0.3899,0.13,0.6517,0.5,0.5,Medium,imputed,,133790
+25-4031,Library Technicians,25,Educational Instruction and Library,0.7776,0.99,0.5367,0.8245,0.5504,High,actual,Postsecondary nondegree award,68690
+25-9021,Farm and Home Management Educators,25,Educational Instruction and Library,0.3876,0.0075,0.6425,0.4457,0.8992,Medium,actual,Master's degree,8220
+25-9031,Instructional Coordinators,25,Educational Instruction and Library,0.3209,0.0042,0.7292,0.0794,0.8067,Medium,actual,Master's degree,227760
+25-9044,"Teaching Assistants, Postsecondary",25,Educational Instruction and Library,0.3847,0.13,0.6308,0.5,0.5,Medium,imputed,,164090
+25-9045,"Teaching Assistants, Except Postsecondary",25,Educational Instruction and Library,0.352,0.13,0.5,0.5,0.5,Medium,imputed,,1420350
+25-9099,"Educational Instruction and Library Workers, All Other",25,Educational Instruction and Library,0.3182,0.13,0.5,0.3078,0.5308,Medium,imputed,,118590
+27-1011,Art Directors,27,"Arts, Design, Entertainment, Sports, and Media",0.252,0.023,0.4908,0.11,0.6541,Low,actual,Bachelor's degree,53070
+27-1012,Craft Artists,27,"Arts, Design, Entertainment, Sports, and Media",0.2761,0.035,0.4383,0.2437,0.6919,Low,actual,No formal educational credential,4580
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",27,"Arts, Design, Entertainment, Sports, and Media",0.3003,0.042,0.3492,0.539,0.5896,Medium,actual,Bachelor's degree,11220
+27-1014,Special Effects Artists and Animators,27,"Arts, Design, Entertainment, Sports, and Media",0.3411,0.015,0.6017,0.8844,0.0518,Medium,actual,Bachelor's degree,19970
+27-1019,"Artists and Related Workers, All Other",27,"Arts, Design, Entertainment, Sports, and Media",0.3575,0.0645,0.5,0.4136,0.8263,Medium,imputed,,6930
+27-1021,Commercial and Industrial Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.3261,0.037,0.6492,0.4791,0.3543,Medium,actual,Bachelor's degree,33490
+27-1022,Fashion Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.3727,0.021,0.5775,0.3579,0.9888,Medium,actual,Bachelor's degree,21450
+27-1023,Floral Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.2724,0.047,0.4433,0.5836,0.1737,Low,actual,High school diploma or equivalent,40590
+27-1024,Graphic Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.3498,0.082,0.5083,0.6365,0.4174,Medium,actual,Bachelor's degree,197830
+27-1025,Interior Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.2864,0.022,0.6525,0.1574,0.5532,Low,actual,Bachelor's degree,71500
+27-1026,Merchandise Displayers and Window Trimmers,27,"Arts, Design, Entertainment, Sports, and Media",0.3462,0.48,0.37,0.1351,0.2311,Medium,actual,High school diploma or equivalent,165220
+27-1027,Set and Exhibit Designers,27,"Arts, Design, Entertainment, Sports, and Media",0.2326,0.0055,0.4208,0.4861,0.1863,Low,actual,Bachelor's degree,10630
+27-1029,"Designers, All Other",27,"Arts, Design, Entertainment, Sports, and Media",0.3447,0.0645,0.5,0.2911,0.9048,Medium,imputed,,9480
+27-2011,Actors,27,"Arts, Design, Entertainment, Sports, and Media",0.3288,0.37,0.2358,0.234,0.5,Medium,actual,"Some college, no degree",55000
+27-2012,Producers and Directors,27,"Arts, Design, Entertainment, Sports, and Media",0.3007,0.022,0.6833,0.1936,0.549,Medium,actual,Bachelor's degree,143120
+27-2012,Producers and Directors,27,"Arts, Design, Entertainment, Sports, and Media",0.298,0.022,0.6725,0.1936,0.549,Low,actual,Bachelor's degree,143120
+27-2012,Producers and Directors,27,"Arts, Design, Entertainment, Sports, and Media",0.237,0.022,0.4283,0.1936,0.549,Low,actual,Bachelor's degree,143120
+27-2012,Producers and Directors,27,"Arts, Design, Entertainment, Sports, and Media",0.2803,0.022,0.6017,0.1936,0.549,Low,actual,Bachelor's degree,143120
+27-2021,Athletes and Sports Competitors,27,"Arts, Design, Entertainment, Sports, and Media",0.2929,0.28,0.6625,0.0766,0.0,Low,actual,No formal educational credential,15070
+27-2022,Coaches and Scouts,27,"Arts, Design, Entertainment, Sports, and Media",0.2726,0.013,0.6483,0.4067,0.1597,Low,actual,Bachelor's degree,248950
+27-2023,"Umpires, Referees, and Other Sports Officials",27,"Arts, Design, Entertainment, Sports, and Media",0.6662,0.98,0.4708,0.7521,0.0406,Medium,actual,High school diploma or equivalent,15780
+27-2031,Dancers,27,"Arts, Design, Entertainment, Sports, and Media",0.324,0.13,0.1942,0.7423,0.5,Medium,actual,No formal educational credential,8130
+27-2032,Choreographers,27,"Arts, Design, Entertainment, Sports, and Media",0.3118,0.004,0.3683,0.954,0.1821,Medium,actual,High school diploma or equivalent,2860
+27-2041,Music Directors and Composers,27,"Arts, Design, Entertainment, Sports, and Media",0.218,0.015,0.4825,0.4401,0.0224,Low,actual,Bachelor's degree,12540
+27-2042,Musicians and Singers,27,"Arts, Design, Entertainment, Sports, and Media",0.3792,0.074,0.5325,0.7075,0.5,Medium,actual,No formal educational credential,36180
+27-2091,"Disc Jockeys, Except Radio",27,"Arts, Design, Entertainment, Sports, and Media",0.3258,0.0645,0.5,0.5,0.5,Medium,imputed,,7920
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",27,"Arts, Design, Entertainment, Sports, and Media",0.2648,0.0645,0.5,0.195,0.5,Low,imputed,,16550
+27-3011,Broadcast Announcers and Radio Disc Jockeys,27,"Arts, Design, Entertainment, Sports, and Media",0.3781,0.1,0.675,0.8329,0.0182,Medium,actual,Bachelor's degree,21240
+27-3023,"News Analysts, Reporters, and Journalists",27,"Arts, Design, Entertainment, Sports, and Media",0.3706,0.0645,0.6792,0.5,0.5,Medium,imputed,,39250
+27-3031,Public Relations Specialists,27,"Arts, Design, Entertainment, Sports, and Media",0.3585,0.18,0.5633,0.2117,0.6891,Medium,actual,Bachelor's degree,283380
+27-3041,Editors,27,"Arts, Design, Entertainment, Sports, and Media",0.3537,0.055,0.6475,0.5529,0.395,Medium,actual,Bachelor's degree,91690
+27-3042,Technical Writers,27,"Arts, Design, Entertainment, Sports, and Media",0.7374,0.89,0.7408,0.649,0.4426,High,actual,Bachelor's degree,45500
+27-3043,Writers and Authors,27,"Arts, Design, Entertainment, Sports, and Media",0.3023,0.038,0.3158,0.3928,0.8641,Medium,actual,Bachelor's degree,47940
+27-3043,Writers and Authors,27,"Arts, Design, Entertainment, Sports, and Media",0.3694,0.038,0.5842,0.3928,0.8641,Medium,actual,Bachelor's degree,47940
+27-3091,Interpreters and Translators,27,"Arts, Design, Entertainment, Sports, and Media",0.5422,0.38,0.5817,0.6281,0.7941,Medium,actual,Bachelor's degree,52060
+27-3092,Court Reporters and Simultaneous Captioners,27,"Arts, Design, Entertainment, Sports, and Media",0.3633,0.0645,0.65,0.5,0.5,Medium,imputed,,12870
+27-3099,"Media and Communication Workers, All Other",27,"Arts, Design, Entertainment, Sports, and Media",0.2618,0.0645,0.5,0.5487,0.0084,Low,imputed,,19590
+27-4011,Audio and Video Technicians,27,"Arts, Design, Entertainment, Sports, and Media",0.5522,0.55,0.6592,0.6058,0.3081,Medium,actual,Postsecondary nondegree award,70230
+27-4012,Broadcast Technicians,27,"Arts, Design, Entertainment, Sports, and Media",0.645,0.74,0.65,0.9011,0.042,Medium,actual,Associate's degree,21110
+27-4014,Sound Engineering Technicians,27,"Arts, Design, Entertainment, Sports, and Media",0.3822,0.13,0.62,0.5348,0.4552,Medium,actual,Postsecondary nondegree award,13080
+27-4015,Lighting Technicians,27,"Arts, Design, Entertainment, Sports, and Media",0.3258,0.0645,0.5,0.5,0.5,Medium,imputed,,8900
+27-4021,Photographers,27,"Arts, Design, Entertainment, Sports, and Media",0.2838,0.021,0.5308,0.4164,0.3964,Low,actual,High school diploma or equivalent,51760
+27-4031,"Camera Operators, Television, Video, and Film",27,"Arts, Design, Entertainment, Sports, and Media",0.5007,0.6,0.5475,0.4513,0.2241,Medium,actual,Bachelor's degree,21550
+27-4032,Film and Video Editors,27,"Arts, Design, Entertainment, Sports, and Media",0.5734,0.31,0.6925,0.6337,0.9972,Medium,actual,Bachelor's degree,25610
+27-4099,"Media and Communication Equipment Workers, All Other",27,"Arts, Design, Entertainment, Sports, and Media",0.48,0.0645,0.5,0.9067,0.986,Medium,imputed,,12450
+29-1011,Chiropractors,29,Healthcare Practitioners and Technical,0.3986,0.027,0.7475,0.266,0.9846,Medium,actual,Doctoral or professional degree,39630
+29-1021,"Dentists, General",29,Healthcare Practitioners and Technical,0.4015,0.0044,0.7558,0.3301,0.965,Medium,actual,Doctoral or professional degree,124390
+29-1022,Oral and Maxillofacial Surgeons,29,Healthcare Practitioners and Technical,0.3056,0.0036,0.8058,0.4652,0.0644,Medium,actual,Doctoral or professional degree,4910
+29-1023,Orthodontists,29,Healthcare Practitioners and Technical,0.3448,0.023,0.6075,0.2326,0.9146,Medium,actual,Doctoral or professional degree,6210
+29-1024,Prosthodontists,29,Healthcare Practitioners and Technical,0.246,0.055,0.8283,0.0028,0.1092,Low,actual,Doctoral or professional degree,870
+29-1029,"Dentists, All Other Specialists",29,Healthcare Practitioners and Technical,0.205,0.0335,0.5,0.2312,0.1359,Low,imputed,,5230
+29-1031,Dietitians and Nutritionists,29,Healthcare Practitioners and Technical,0.3102,0.0039,0.7408,0.1992,0.5574,Medium,actual,Bachelor's degree,77570
+29-1041,Optometrists,29,Healthcare Practitioners and Technical,0.4594,0.14,0.8983,0.2479,0.8613,Medium,actual,Doctoral or professional degree,42790
+29-1051,Pharmacists,29,Healthcare Practitioners and Technical,0.414,0.012,0.7392,0.4276,0.9258,Medium,actual,Doctoral or professional degree,321970
+29-1071,Physician Assistants,29,Healthcare Practitioners and Technical,0.3409,0.14,0.8692,0.0641,0.3655,Medium,actual,Master's degree,162150
+29-1071,Physician Assistants,29,Healthcare Practitioners and Technical,0.3216,0.14,0.7917,0.0641,0.3655,Medium,actual,Master's degree,162150
+29-1081,Podiatrists,29,Healthcare Practitioners and Technical,0.4063,0.0046,0.74,0.4596,0.8501,Medium,actual,Doctoral or professional degree,9680
+29-1122,Occupational Therapists,29,Healthcare Practitioners and Technical,0.3464,0.0035,0.7658,0.1365,0.8417,Medium,actual,Master's degree,162450
+29-1122,Occupational Therapists,29,Healthcare Practitioners and Technical,0.31,0.0035,0.62,0.1365,0.8417,Medium,actual,Master's degree,162450
+29-1123,Physical Therapists,29,Healthcare Practitioners and Technical,0.3688,0.021,0.7525,0.2256,0.8473,Medium,actual,Doctoral or professional degree,267330
+29-1124,Radiation Therapists,29,Healthcare Practitioners and Technical,0.4858,0.34,0.755,0.5877,0.2899,Medium,actual,Associate's degree,17070
+29-1125,Recreational Therapists,29,Healthcare Practitioners and Technical,0.3452,0.0028,0.5833,0.7981,0.2577,Medium,actual,Bachelor's degree,14930
+29-1126,Respiratory Therapists,29,Healthcare Practitioners and Technical,0.3133,0.066,0.7833,0.3649,0.1204,Medium,actual,Associate's degree,139790
+29-1127,Speech-Language Pathologists,29,Healthcare Practitioners and Technical,0.3595,0.0064,0.8558,0.1616,0.7381,Medium,actual,Master's degree,183390
+29-1128,Exercise Physiologists,29,Healthcare Practitioners and Technical,0.3628,0.0335,0.7167,0.1379,0.951,Medium,imputed,,8560
+29-1129,"Therapists, All Other",29,Healthcare Practitioners and Technical,0.1889,0.0335,0.6908,0.0056,0.0112,Low,imputed,,22640
+29-1129,"Therapists, All Other",29,Healthcare Practitioners and Technical,0.1772,0.0335,0.6442,0.0056,0.0112,Low,imputed,,22640
+29-1131,Veterinarians,29,Healthcare Practitioners and Technical,0.2704,0.038,0.7267,0.2173,0.2003,Low,actual,Doctoral or professional degree,83900
+29-1141,Registered Nurses,29,Healthcare Practitioners and Technical,0.2991,0.0335,0.7925,0.2604,0.2367,Low,imputed,,3379720
+29-1141,Registered Nurses,29,Healthcare Practitioners and Technical,0.2822,0.0335,0.725,0.2604,0.2367,Low,imputed,,3379720
+29-1141,Registered Nurses,29,Healthcare Practitioners and Technical,0.3214,0.0335,0.8817,0.2604,0.2367,Medium,imputed,,3379720
+29-1141,Registered Nurses,29,Healthcare Practitioners and Technical,0.2989,0.0335,0.7917,0.2604,0.2367,Low,imputed,,3379720
+29-1141,Registered Nurses,29,Healthcare Practitioners and Technical,0.2964,0.0335,0.7817,0.2604,0.2367,Low,imputed,,3379720
+29-1151,Nurse Anesthetists,29,Healthcare Practitioners and Technical,0.2864,0.0335,0.8783,0.2061,0.0812,Low,imputed,,51840
+29-1161,Nurse Midwives,29,Healthcare Practitioners and Technical,0.3152,0.0335,0.8183,0.1435,0.4566,Medium,imputed,,7920
+29-1171,Nurse Practitioners,29,Healthcare Practitioners and Technical,0.3212,0.0335,0.8525,0.0111,0.6162,Medium,imputed,,323040
+29-1181,Audiologists,29,Healthcare Practitioners and Technical,0.41,0.0033,0.7833,0.4415,0.8305,Medium,actual,Doctoral or professional degree,13660
+29-1211,Anesthesiologists,29,Healthcare Practitioners and Technical,0.3972,0.0335,0.835,0.5,0.5,Medium,imputed,,38760
+29-1212,Cardiologists,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,17290
+29-1213,Dermatologists,29,Healthcare Practitioners and Technical,0.3684,0.0335,0.72,0.5,0.5,Medium,imputed,,11370
+29-1214,Emergency Medicine Physicians,29,Healthcare Practitioners and Technical,0.4126,0.0335,0.8967,0.5,0.5,Medium,imputed,,32880
+29-1215,Family Medicine Physicians,29,Healthcare Practitioners and Technical,0.3817,0.0335,0.7733,0.5,0.5,Medium,imputed,,107510
+29-1216,General Internal Medicine Physicians,29,Healthcare Practitioners and Technical,0.4038,0.0335,0.8617,0.5,0.5,Medium,imputed,,67150
+29-1217,Neurologists,29,Healthcare Practitioners and Technical,0.4128,0.0335,0.8975,0.5,0.5,Medium,imputed,,10590
+29-1218,Obstetricians and Gynecologists,29,Healthcare Practitioners and Technical,0.4007,0.0335,0.8492,0.5,0.5,Medium,imputed,,21260
+29-1221,"Pediatricians, General",29,Healthcare Practitioners and Technical,0.3674,0.0335,0.7158,0.5,0.5,Medium,imputed,,39390
+29-1222,"Physicians, Pathologists",29,Healthcare Practitioners and Technical,0.4028,0.0335,0.8575,0.5,0.5,Medium,imputed,,11110
+29-1223,Psychiatrists,29,Healthcare Practitioners and Technical,0.3767,0.0335,0.7533,0.5,0.5,Medium,imputed,,27980
+29-1224,Radiologists,29,Healthcare Practitioners and Technical,0.3957,0.0335,0.8292,0.5,0.5,Medium,imputed,,26770
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.3922,0.0335,0.815,0.5,0.5,Medium,imputed,,342720
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.4203,0.0335,0.9275,0.5,0.5,Medium,imputed,,342720
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.4224,0.0335,0.9358,0.5,0.5,Medium,imputed,,342720
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.4003,0.0335,0.8475,0.5,0.5,Medium,imputed,,342720
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.3896,0.0335,0.805,0.5,0.5,Medium,imputed,,342720
+29-1229,"Physicians, All Other",29,Healthcare Practitioners and Technical,0.3951,0.0335,0.8267,0.5,0.5,Medium,imputed,,342720
+29-1241,"Ophthalmologists, Except Pediatric",29,Healthcare Practitioners and Technical,0.4138,0.0335,0.9017,0.5,0.5,Medium,imputed,,8950
+29-1242,"Orthopedic Surgeons, Except Pediatric",29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,14100
+29-1243,Pediatric Surgeons,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,1190
+29-1249,"Surgeons, All Other",29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,25140
+29-1291,Acupuncturists,29,Healthcare Practitioners and Technical,0.3584,0.0335,0.68,0.5,0.5,Medium,imputed,,7830
+29-1292,Dental Hygienists,29,Healthcare Practitioners and Technical,0.3561,0.0335,0.6708,0.5,0.5,Medium,imputed,,222740
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29,Healthcare Practitioners and Technical,0.3934,0.0335,0.82,0.5,0.5,Medium,imputed,,28630
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29,Healthcare Practitioners and Technical,0.3736,0.0335,0.7408,0.5,0.5,Medium,imputed,,28630
+29-2031,Cardiovascular Technologists and Technicians,29,Healthcare Practitioners and Technical,0.3908,0.23,0.7442,0.3064,0.3431,Medium,actual,Associate's degree,62960
+29-2032,Diagnostic Medical Sonographers,29,Healthcare Practitioners and Technical,0.3892,0.35,0.69,0.1421,0.3221,Medium,actual,Associate's degree,90160
+29-2033,Nuclear Medicine Technologists,29,Healthcare Practitioners and Technical,0.3828,0.13,0.6517,0.6379,0.2689,Medium,actual,Associate's degree,17080
+29-2034,Radiologic Technologists and Technicians,29,Healthcare Practitioners and Technical,0.2396,0.0335,0.5558,0.2953,0.1877,Low,imputed,,230490
+29-2035,Magnetic Resonance Imaging Technologists,29,Healthcare Practitioners and Technical,0.2989,0.0335,0.75,0.2841,0.2745,Low,imputed,,43390
+29-2036,Medical Dosimetrists,29,Healthcare Practitioners and Technical,0.3976,0.0335,0.8367,0.5,0.5,Medium,imputed,,3410
+29-2042,Emergency Medical Technicians,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,180510
+29-2043,Paramedics,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,100610
+29-2051,Dietetic Technicians,29,Healthcare Practitioners and Technical,0.3891,0.13,0.7575,0.5738,0.2199,Medium,actual,Associate's degree,31560
+29-2052,Pharmacy Technicians,29,Healthcare Practitioners and Technical,0.631,0.92,0.7308,0.2786,0.1639,Medium,actual,High school diploma or equivalent,471680
+29-2053,Psychiatric Technicians,29,Healthcare Practitioners and Technical,0.2591,0.043,0.565,0.0042,0.6653,Low,actual,Postsecondary nondegree award,156960
+29-2055,Surgical Technologists,29,Healthcare Practitioners and Technical,0.3663,0.34,0.5458,0.383,0.1148,Medium,actual,Postsecondary nondegree award,117460
+29-2056,Veterinary Technologists and Technicians,29,Healthcare Practitioners and Technical,0.2424,0.029,0.6842,0.1908,0.1443,Low,actual,Associate's degree,129140
+29-2057,Ophthalmic Medical Technicians,29,Healthcare Practitioners and Technical,0.2977,0.0335,0.6475,0.1017,0.6807,Low,imputed,,71010
+29-2061,Licensed Practical and Licensed Vocational Nurses,29,Healthcare Practitioners and Technical,0.3402,0.058,0.7383,0.6072,0.0728,Medium,actual,Postsecondary nondegree award,648410
+29-2072,Medical Records Specialists,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,194720
+29-2081,"Opticians, Dispensing",29,Healthcare Practitioners and Technical,0.6322,0.71,0.7875,0.4624,0.3922,Medium,actual,High school diploma or equivalent,73530
+29-2091,Orthotists and Prosthetists,29,Healthcare Practitioners and Technical,0.4071,0.0035,0.75,0.3872,0.9384,Medium,actual,Master's degree,9390
+29-2092,Hearing Aid Specialists,29,Healthcare Practitioners and Technical,0.2974,0.0335,0.6075,0.046,0.8193,Low,imputed,,11270
+29-2099,"Health Technologists and Technicians, All Other",29,Healthcare Practitioners and Technical,0.3232,0.0335,0.8058,0.0501,0.6555,Medium,imputed,,182610
+29-2099,"Health Technologists and Technicians, All Other",29,Healthcare Practitioners and Technical,0.279,0.0335,0.6292,0.0501,0.6555,Low,imputed,,182610
+29-2099,"Health Technologists and Technicians, All Other",29,Healthcare Practitioners and Technical,0.3095,0.0335,0.7508,0.0501,0.6555,Medium,imputed,,182610
+29-9021,Health Information Technologists and Medical Registrars,29,Healthcare Practitioners and Technical,0.3134,0.0335,0.5,0.5,0.5,Medium,imputed,,38100
+29-9091,Athletic Trainers,29,Healthcare Practitioners and Technical,0.2538,0.0071,0.6575,0.2744,0.2115,Low,actual,Bachelor's degree,30500
+29-9092,Genetic Counselors,29,Healthcare Practitioners and Technical,0.2765,0.0335,0.7642,0.0599,0.4006,Low,imputed,,3740
+29-9093,Surgical Assistants,29,Healthcare Practitioners and Technical,0.3492,0.0335,0.6433,0.5,0.5,Medium,imputed,,22270
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",29,Healthcare Practitioners and Technical,0.3946,0.0335,0.7683,0.3774,0.7577,Medium,imputed,,35010
+31-1131,Nursing Assistants,31,Healthcare Support,0.5422,0.54,0.605,0.5,0.5,Medium,imputed,,1448910
+31-1132,Orderlies,31,Healthcare Support,0.5045,0.54,0.4542,0.5,0.5,Medium,imputed,,52440
+31-1133,Psychiatric Aides,31,Healthcare Support,0.5341,0.54,0.5725,0.5,0.5,Medium,imputed,,35520
+31-2011,Occupational Therapy Assistants,31,Healthcare Support,0.3524,0.028,0.68,0.1964,0.8796,Medium,actual,Associate's degree,51290
+31-2012,Occupational Therapy Aides,31,Healthcare Support,0.4839,0.27,0.6167,0.9554,0.2045,Medium,actual,High school diploma or equivalent,4310
+31-2021,Physical Therapist Assistants,31,Healthcare Support,0.3483,0.018,0.7058,0.2047,0.8249,Medium,actual,Associate's degree,112430
+31-2022,Physical Therapist Aides,31,Healthcare Support,0.5572,0.61,0.6008,0.461,0.472,Medium,actual,High school diploma or equivalent,48150
+31-9011,Massage Therapists,31,Healthcare Support,0.4827,0.54,0.5258,0.5766,0.1331,Medium,actual,Postsecondary nondegree award,98790
+31-9091,Dental Assistants,31,Healthcare Support,0.4961,0.51,0.6292,0.2688,0.5406,Medium,actual,Postsecondary nondegree award,387790
+31-9092,Medical Assistants,31,Healthcare Support,0.4081,0.3,0.8475,0.1866,0.2591,Medium,actual,Postsecondary nondegree award,817870
+31-9093,Medical Equipment Preparers,31,Healthcare Support,0.5665,0.78,0.7875,0.078,0.2801,Medium,actual,High school diploma or equivalent,77420
+31-9094,Medical Transcriptionists,31,Healthcare Support,0.8463,0.89,0.75,0.8259,0.9174,High,actual,Postsecondary nondegree award,41550
+31-9095,Pharmacy Aides,31,Healthcare Support,0.5207,0.72,0.5433,0.3802,0.1387,Medium,actual,High school diploma or equivalent,39530
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,31,Healthcare Support,0.546,0.86,0.6975,0.0613,0.1022,Medium,actual,High school diploma or equivalent,126580
+31-9097,Phlebotomists,31,Healthcare Support,0.5206,0.54,0.7358,0.2577,0.4608,Medium,imputed,,143540
+31-9099,"Healthcare Support Workers, All Other",31,Healthcare Support,0.4648,0.54,0.6258,0.1769,0.3796,Medium,imputed,,109740
+31-9099,"Healthcare Support Workers, All Other",31,Healthcare Support,0.485,0.54,0.7067,0.1769,0.3796,Medium,imputed,,109740
+33-1011,First-Line Supervisors of Correctional Officers,33,Protective Service,0.3407,0.025,0.7783,0.1825,0.6639,Medium,actual,High school diploma or equivalent,53380
+33-1012,First-Line Supervisors of Police and Detectives,33,Protective Service,0.3328,0.0044,0.7675,0.1086,0.7829,Medium,actual,High school diploma or equivalent,154610
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,33,Protective Service,0.3065,0.0036,0.7225,0.0404,0.7759,Medium,actual,Postsecondary nondegree award,99140
+33-1091,First-Line Supervisors of Security Workers,33,Protective Service,0.4712,0.34,0.6408,0.5,0.5,Medium,imputed,,81480
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",33,Protective Service,0.4754,0.34,0.5,0.9986,0.098,Medium,imputed,,20690
+33-2011,Firefighters,33,Protective Service,0.4341,0.17,0.68,0.3691,0.8151,Medium,actual,Postsecondary nondegree award,345990
+33-2021,Fire Inspectors and Investigators,33,Protective Service,0.5492,0.48,0.7467,0.3287,0.6989,Medium,actual,Postsecondary nondegree award,13800
+33-2022,Forest Fire Inspectors and Prevention Specialists,33,Protective Service,0.2381,0.048,0.6375,0.1212,0.2353,Low,actual,High school diploma or equivalent,2780
+33-3011,Bailiffs,33,Protective Service,0.5261,0.36,0.6333,0.6253,0.6583,Medium,actual,High school diploma or equivalent,17310
+33-3012,Correctional Officers and Jailers,33,Protective Service,0.5916,0.6,0.6608,0.6212,0.4146,Medium,actual,High school diploma or equivalent,380500
+33-3021,Detectives and Criminal Investigators,33,Protective Service,0.5294,0.34,0.7908,0.3175,0.881,Medium,actual,High school diploma or equivalent,114430
+33-3021,Detectives and Criminal Investigators,33,Protective Service,0.5244,0.34,0.7708,0.3175,0.881,Medium,actual,High school diploma or equivalent,114430
+33-3021,Detectives and Criminal Investigators,33,Protective Service,0.5392,0.34,0.83,0.3175,0.881,Medium,actual,High school diploma or equivalent,114430
+33-3031,Fish and Game Wardens,33,Protective Service,0.3976,0.08,0.6975,0.5571,0.5322,Medium,actual,Bachelor's degree,5770
+33-3041,Parking Enforcement Workers,33,Protective Service,0.694,0.84,0.7483,0.2939,0.7479,Medium,actual,High school diploma or equivalent,9050
+33-3051,Police and Sheriff's Patrol Officers,33,Protective Service,0.437,0.098,0.7592,0.4708,0.7591,Medium,actual,High school diploma or equivalent,670520
+33-3051,Police and Sheriff's Patrol Officers,33,Protective Service,0.453,0.098,0.8233,0.4708,0.7591,Medium,actual,High school diploma or equivalent,670520
+33-3052,Transit and Railroad Police,33,Protective Service,0.63,0.57,0.7983,0.5097,0.6695,Medium,actual,High school diploma or equivalent,4390
+33-9011,Animal Control Workers,33,Protective Service,0.4643,0.21,0.7908,0.4916,0.5616,Medium,actual,High school diploma or equivalent,12070
+33-9021,Private Detectives and Investigators,33,Protective Service,0.5207,0.31,0.7983,0.2493,0.9818,Medium,actual,High school diploma or equivalent,35580
+33-9031,Gambling Surveillance Officers and Gambling Investigators,33,Protective Service,0.7857,0.95,0.81,0.5989,0.556,High,actual,High school diploma or equivalent,9520
+33-9032,Security Guards,33,Protective Service,0.6275,0.84,0.795,0.2423,0.2955,Medium,actual,High school diploma or equivalent,1283470
+33-9091,Crossing Guards and Flaggers,33,Protective Service,0.3689,0.49,0.4008,0.2145,0.1989,Medium,actual,No formal educational credential,94360
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33,Protective Service,0.4817,0.67,0.5192,0.3482,0.0952,Medium,actual,No formal educational credential,157550
+33-9093,Transportation Security Screeners,33,Protective Service,0.3183,0.34,0.4717,0.3092,0.0168,Medium,imputed,,50290
+33-9094,School Bus Monitors,33,Protective Service,0.436,0.34,0.5,0.5,0.5,Medium,imputed,,78420
+33-9099,"Protective Service Workers, All Other",33,Protective Service,0.5515,0.34,0.8258,0.9443,0.1345,Medium,imputed,,81500
+35-1011,Chefs and Head Cooks,35,Food Preparation and Serving Related,0.2464,0.1,0.5208,0.0279,0.4706,Low,actual,High school diploma or equivalent,200040
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,35,Food Preparation and Serving Related,0.4878,0.63,0.5417,0.1393,0.4832,Medium,actual,High school diploma or equivalent,1223240
+35-2011,"Cooks, Fast Food",35,Food Preparation and Serving Related,0.448,0.81,0.3692,0.1114,0.063,Medium,actual,No formal educational credential,641070
+35-2012,"Cooks, Institution and Cafeteria",35,Food Preparation and Serving Related,0.5618,0.83,0.5633,0.3273,0.1569,Medium,actual,No formal educational credential,441050
+35-2013,"Cooks, Private Household",35,Food Preparation and Serving Related,0.2862,0.3,0.4408,0.0014,0.3711,Low,actual,Postsecondary nondegree award,1100
+35-2014,"Cooks, Restaurant",35,Food Preparation and Serving Related,0.5364,0.96,0.2225,0.4039,0.1064,Medium,actual,No formal educational credential,1409890
+35-2015,"Cooks, Short Order",35,Food Preparation and Serving Related,0.6189,0.94,0.3983,0.6727,0.0588,Medium,actual,No formal educational credential,138650
+35-2019,"Cooks, All Other",35,Food Preparation and Serving Related,0.6107,0.845,0.5,0.4234,0.4202,Medium,imputed,,19350
+35-2021,Food Preparation Workers,35,Food Preparation and Serving Related,0.5173,0.87,0.3617,0.3357,0.0784,Medium,actual,No formal educational credential,893600
+35-3011,Bartenders,35,Food Preparation and Serving Related,0.4727,0.77,0.4867,0.2006,0.0196,Medium,actual,No formal educational credential,756390
+35-3023,Fast Food and Counter Workers,35,Food Preparation and Serving Related,0.5936,0.845,0.3225,0.5,0.5,Medium,imputed,,3854050
+35-3023,Fast Food and Counter Workers,35,Food Preparation and Serving Related,0.6132,0.845,0.4008,0.5,0.5,Medium,imputed,,3854050
+35-3031,Waiters and Waitresses,35,Food Preparation and Serving Related,0.5786,0.94,0.2475,0.6922,0.0154,Medium,actual,No formal educational credential,2270910
+35-3041,"Food Servers, Nonrestaurant",35,Food Preparation and Serving Related,0.5428,0.86,0.5092,0.3217,0.0476,Medium,actual,No formal educational credential,293900
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,35,Food Preparation and Serving Related,0.5139,0.91,0.3942,0.2075,0.0658,Medium,actual,No formal educational credential,542750
+35-9021,Dishwashers,35,Food Preparation and Serving Related,0.4982,0.77,0.2908,0.5655,0.0294,Medium,actual,No formal educational credential,477450
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35,Food Preparation and Serving Related,0.5927,0.97,0.41,0.4331,0.1036,Medium,actual,No formal educational credential,432690
+35-9099,"Food Preparation and Serving Related Workers, All Other",35,Food Preparation and Serving Related,0.4777,0.845,0.5,0.039,0.0462,Medium,imputed,,84630
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,37,Building and Grounds Cleaning and Maintenance,0.675,0.94,0.61,0.2368,0.6611,Medium,actual,High school diploma or equivalent,178760
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37,Building and Grounds Cleaning and Maintenance,0.5367,0.57,0.6342,0.1267,0.8319,Medium,actual,High school diploma or equivalent,130760
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37,Building and Grounds Cleaning and Maintenance,0.5164,0.66,0.5042,0.4471,0.2465,Medium,actual,No formal educational credential,2209760
+37-2012,Maids and Housekeeping Cleaners,37,Building and Grounds Cleaning and Maintenance,0.4942,0.69,0.37,0.5947,0.0448,Medium,actual,No formal educational credential,860670
+37-2019,"Building Cleaning Workers, All Other",37,Building and Grounds Cleaning and Maintenance,0.4599,0.73,0.5,0.1504,0.0854,Medium,imputed,,17210
+37-2021,Pest Control Workers,37,Building and Grounds Cleaning and Maintenance,0.5361,0.66,0.5683,0.1072,0.7241,Medium,actual,High school diploma or equivalent,102620
+37-3011,Landscaping and Groundskeeping Workers,37,Building and Grounds Cleaning and Maintenance,0.5661,0.95,0.3025,0.4192,0.1779,Medium,actual,No formal educational credential,952640
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",37,Building and Grounds Cleaning and Maintenance,0.7019,0.97,0.5917,0.3238,0.6751,High,actual,High school diploma or equivalent,27050
+37-3013,Tree Trimmers and Pruners,37,Building and Grounds Cleaning and Maintenance,0.4496,0.77,0.3825,0.1226,0.1429,Medium,actual,High school diploma or equivalent,55160
+37-3019,"Grounds Maintenance Workers, All Other",37,Building and Grounds Cleaning and Maintenance,0.5577,0.73,0.5,0.571,0.1765,Medium,imputed,,13630
+39-1013,First-Line Supervisors of Gambling Services Workers,39,Personal Care and Service,0.516,0.54,0.5,0.5,0.5,Medium,imputed,,26010
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",39,Personal Care and Service,0.516,0.54,0.5,0.5,0.5,Medium,imputed,,103190
+39-1022,First-Line Supervisors of Personal Service Workers,39,Personal Care and Service,0.5543,0.54,0.6533,0.5,0.5,Medium,imputed,,114110
+39-2011,Animal Trainers,39,Personal Care and Service,0.2299,0.1,0.4842,0.1448,0.2661,Low,actual,High school diploma or equivalent,18770
+39-2021,Animal Caretakers,39,Personal Care and Service,0.491,0.82,0.5375,0.1031,0.0532,Medium,actual,High school diploma or equivalent,266910
+39-3011,Gambling Dealers,39,Personal Care and Service,0.5796,0.96,0.2675,0.6407,0.0042,Medium,actual,High school diploma or equivalent,83910
+39-3012,Gambling and Sports Book Writers and Runners,39,Personal Care and Service,0.6708,0.91,0.4075,0.7883,0.3151,Medium,actual,High school diploma or equivalent,8950
+39-3019,"Gambling Service Workers, All Other",39,Personal Care and Service,0.3974,0.54,0.5,0.0585,0.2983,Medium,imputed,,14140
+39-3021,Motion Picture Projectionists,39,Personal Care and Service,0.67,0.97,0.3308,0.9944,0.0028,Medium,actual,No formal educational credential,1480
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",39,Personal Care and Service,0.6137,0.96,0.3425,0.6351,0.1134,Medium,actual,No formal educational credential,121770
+39-3091,Amusement and Recreation Attendants,39,Personal Care and Service,0.4576,0.72,0.4658,0.1671,0.1317,Medium,actual,No formal educational credential,397830
+39-3092,Costume Attendants,39,Personal Care and Service,0.4815,0.61,0.4767,0.4805,0.1485,Medium,actual,High school diploma or equivalent,6510
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",39,Personal Care and Service,0.3634,0.43,0.1842,0.6838,0.0574,Medium,actual,High school diploma or equivalent,15560
+39-3099,"Entertainment Attendants and Related Workers, All Other",39,Personal Care and Service,0.496,0.54,0.5,0.1281,0.8627,Medium,imputed,,7060
+39-4011,Embalmers,39,Personal Care and Service,0.5902,0.54,0.6933,0.5557,0.598,Medium,actual,Postsecondary nondegree award,3890
+39-4012,Crematory Operators,39,Personal Care and Service,0.516,0.54,0.5,0.5,0.5,Medium,imputed,,2970
+39-4021,Funeral Attendants,39,Personal Care and Service,0.4456,0.37,0.4258,0.6908,0.3529,Medium,actual,High school diploma or equivalent,31090
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",39,Personal Care and Service,0.6358,0.54,0.6633,0.5251,0.993,Medium,imputed,,25100
+39-5011,Barbers,39,Personal Care and Service,0.5838,0.8,0.325,0.8454,0.0896,Medium,actual,Postsecondary nondegree award,15000
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",39,Personal Care and Service,0.3275,0.11,0.4908,0.7758,0.0378,Medium,actual,Postsecondary nondegree award,305710
+39-5091,"Makeup Artists, Theatrical and Performance",39,Personal Care and Service,0.3073,0.01,0.4883,0.844,0.0826,Medium,actual,Postsecondary nondegree award,2340
+39-5092,Manicurists and Pedicurists,39,Personal Care and Service,0.4485,0.95,0.1933,0.0808,0.0266,Medium,actual,Postsecondary nondegree award,152770
+39-5093,Shampooers,39,Personal Care and Service,0.6048,0.79,0.3742,0.9387,0.0504,Medium,actual,No formal educational credential,8070
+39-5094,Skincare Specialists,39,Personal Care and Service,0.2592,0.29,0.4867,0.0543,0.0714,Low,actual,Postsecondary nondegree award,72890
+39-6011,Baggage Porters and Bellhops,39,Personal Care and Service,0.6611,0.83,0.5583,0.8969,0.0672,Medium,actual,High school diploma or equivalent,28510
+39-6012,Concierges,39,Personal Care and Service,0.3303,0.21,0.5783,0.1128,0.528,Medium,actual,High school diploma or equivalent,49240
+39-9011,Childcare Workers,39,Personal Care and Service,0.2824,0.084,0.4583,0.6156,0.0742,Low,actual,High school diploma or equivalent,518910
+39-9011,Childcare Workers,39,Personal Care and Service,0.2662,0.084,0.3933,0.6156,0.0742,Low,actual,High school diploma or equivalent,518910
+39-9031,Exercise Trainers and Group Fitness Instructors,39,Personal Care and Service,0.354,0.085,0.4283,0.4123,0.8697,Medium,actual,High school diploma or equivalent,322930
+39-9032,Recreation Workers,39,Personal Care and Service,0.3251,0.0061,0.71,0.5808,0.1933,Medium,actual,High school diploma or equivalent,331490
+39-9041,Residential Advisors,39,Personal Care and Service,0.3547,0.064,0.6467,0.812,0.0336,Medium,actual,High school diploma or equivalent,84760
+39-9099,"Personal Care and Service Workers, All Other",39,Personal Care and Service,0.4433,0.54,0.5,0.4485,0.084,Medium,imputed,,60420
+41-1011,First-Line Supervisors of Retail Sales Workers,41,Sales and Related,0.4773,0.28,0.5008,0.5641,0.8487,Medium,actual,High school diploma or equivalent,1121800
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,41,Sales and Related,0.4726,0.075,0.6767,0.7117,0.8739,Medium,actual,High school diploma or equivalent,214390
+41-2011,Cashiers,41,Sales and Related,0.6277,0.97,0.335,0.7284,0.0686,Medium,actual,No formal educational credential,3089410
+41-2012,Gambling Change Persons and Booth Cashiers,41,Sales and Related,0.5938,0.83,0.5933,0.5223,0.0602,Medium,actual,High school diploma or equivalent,21530
+41-2021,Counter and Rental Clerks,41,Sales and Related,0.6818,0.97,0.6917,0.578,0.035,Medium,actual,No formal educational credential,400810
+41-2022,Parts Salespersons,41,Sales and Related,0.7006,0.98,0.6567,0.3955,0.4356,High,actual,No formal educational credential,270070
+41-2031,Retail Salespersons,41,Sales and Related,0.6711,0.92,0.465,0.695,0.3193,Medium,actual,No formal educational credential,3897860
+41-3011,Advertising Sales Agents,41,Sales and Related,0.6092,0.54,0.5642,0.89,0.4944,Medium,actual,High school diploma or equivalent,91700
+41-3021,Insurance Sales Agents,41,Sales and Related,0.6658,0.92,0.5633,0.1852,0.7997,Medium,actual,High school diploma or equivalent,479100
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",41,Sales and Related,0.3734,0.016,0.7175,0.2187,0.9594,Medium,actual,Bachelor's degree,489570
+41-3041,Travel Agents,41,Sales and Related,0.4383,0.099,0.6792,0.7967,0.4636,Medium,actual,High school diploma or equivalent,55110
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",41,Sales and Related,0.642,0.855,0.5,0.5,0.5,Medium,imputed,,1256010
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41,Sales and Related,0.3775,0.25,0.3875,0.6309,0.3627,Medium,actual,Bachelor's degree,284800
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41,Sales and Related,0.4408,0.25,0.6408,0.6309,0.3627,Medium,actual,Bachelor's degree,284800
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41,Sales and Related,0.7449,0.85,0.6233,0.6184,0.8361,High,actual,High school diploma or equivalent,1238190
+41-9011,Demonstrators and Product Promoters,41,Sales and Related,0.496,0.51,0.4342,0.7953,0.1625,Medium,actual,High school diploma or equivalent,64520
+41-9012,Models,41,Sales and Related,0.4942,0.98,0.1975,0.2632,0.0014,Medium,actual,No formal educational credential,3780
+41-9021,Real Estate Brokers,41,Sales and Related,0.7574,0.97,0.6825,0.2618,0.9762,High,actual,High school diploma or equivalent,46100
+41-9022,Real Estate Sales Agents,41,Sales and Related,0.6787,0.86,0.6333,0.1741,0.944,Medium,actual,High school diploma or equivalent,193370
+41-9031,Sales Engineers,41,Sales and Related,0.4344,0.0041,0.6033,0.8036,0.8081,Medium,actual,Bachelor's degree,51790
+41-9041,Telemarketers,41,Sales and Related,0.8178,0.99,0.6875,0.9903,0.3459,High,actual,No formal educational credential,58430
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",41,Sales and Related,0.7376,0.94,0.3858,0.9958,0.4398,High,actual,No formal educational credential,2760
+41-9099,"Sales and Related Workers, All Other",41,Sales and Related,0.5796,0.855,0.5,0.5265,0.049,Medium,imputed,,93180
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,43,Office and Administrative Support,0.3997,0.014,0.7633,0.5279,0.6513,Medium,actual,High school diploma or equivalent,1436680
+43-2011,"Switchboard Operators, Including Answering Service",43,Office and Administrative Support,0.731,0.96,0.4875,0.968,0.2101,High,actual,High school diploma or equivalent,34280
+43-2021,Telephone Operators,43,Office and Administrative Support,0.8727,0.97,0.6608,0.9053,0.923,High,actual,High school diploma or equivalent,3430
+43-2099,"Communications Equipment Operators, All Other",43,Office and Administrative Support,0.7017,0.945,0.5,0.9471,0.0616,High,imputed,,1200
+43-3011,Bill and Account Collectors,43,Office and Administrative Support,0.7742,0.95,0.5642,0.9276,0.451,High,actual,High school diploma or equivalent,158830
+43-3021,Billing and Posting Clerks,43,Office and Administrative Support,0.758,0.96,0.6767,0.7173,0.409,High,actual,High school diploma or equivalent,404060
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",43,Office and Administrative Support,0.7645,0.98,0.6583,0.6616,0.5042,High,actual,"Some college, no degree",1373680
+43-3041,Gambling Cage Workers,43,Office and Administrative Support,0.4521,0.39,0.5508,0.6546,0.1835,Medium,actual,High school diploma or equivalent,14430
+43-3051,Payroll and Timekeeping Clerks,43,Office and Administrative Support,0.7065,0.97,0.7192,0.39,0.4048,High,actual,High school diploma or equivalent,153140
+43-3061,Procurement Clerks,43,Office and Administrative Support,0.8239,0.98,0.6675,0.7632,0.7493,High,actual,High school diploma or equivalent,55810
+43-3071,Tellers,43,Office and Administrative Support,0.7573,0.98,0.6942,0.8802,0.105,High,actual,High school diploma or equivalent,329480
+43-3099,"Financial Clerks, All Other",43,Office and Administrative Support,0.6093,0.945,0.5,0.227,0.4062,Medium,imputed,,36260
+43-4011,Brokerage Clerks,43,Office and Administrative Support,0.7628,0.98,0.6225,0.915,0.2143,High,actual,High school diploma or equivalent,35940
+43-4021,Correspondence Clerks,43,Office and Administrative Support,0.776,0.86,0.6808,0.8078,0.6681,High,actual,High school diploma or equivalent,4290
+43-4031,"Court, Municipal, and License Clerks",43,Office and Administrative Support,0.4619,0.46,0.6958,0.1476,0.4958,Medium,actual,High school diploma or equivalent,179750
+43-4041,"Credit Authorizers, Checkers, and Clerks",43,Office and Administrative Support,0.851,0.97,0.7433,0.9847,0.535,High,actual,High school diploma or equivalent,12030
+43-4051,Customer Service Representatives,43,Office and Administrative Support,0.6013,0.55,0.7242,0.6462,0.4734,Medium,actual,High school diploma or equivalent,2595750
+43-4061,"Eligibility Interviewers, Government Programs",43,Office and Administrative Support,0.6538,0.7,0.7992,0.2869,0.7773,Medium,actual,High school diploma or equivalent,154800
+43-4071,File Clerks,43,Office and Administrative Support,0.8063,0.97,0.8183,0.9025,0.2213,High,actual,High school diploma or equivalent,73440
+43-4081,"Hotel, Motel, and Resort Desk Clerks",43,Office and Administrative Support,0.6424,0.94,0.6192,0.4889,0.0924,Medium,actual,High school diploma or equivalent,261420
+43-4111,"Interviewers, Except Eligibility and Loan",43,Office and Administrative Support,0.7901,0.94,0.825,0.8301,0.2787,High,actual,High school diploma or equivalent,148060
+43-4121,"Library Assistants, Clerical",43,Office and Administrative Support,0.6633,0.95,0.5808,0.5432,0.1961,Medium,actual,High school diploma or equivalent,85520
+43-4131,Loan Interviewers and Clerks,43,Office and Administrative Support,0.794,0.92,0.7225,0.8468,0.507,High,actual,High school diploma or equivalent,164790
+43-4141,New Accounts Clerks,43,Office and Administrative Support,0.6908,0.99,0.4825,0.6755,0.2605,Medium,actual,High school diploma or equivalent,36860
+43-4151,Order Clerks,43,Office and Administrative Support,0.8246,0.98,0.8183,0.9708,0.2255,High,actual,High school diploma or equivalent,75200
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",43,Office and Administrative Support,0.8131,0.9,0.7767,0.8621,0.577,High,actual,Associate's degree,90220
+43-4171,Receptionists and Information Clerks,43,Office and Administrative Support,0.7093,0.96,0.5158,0.6992,0.3768,High,actual,High school diploma or equivalent,910180
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,43,Office and Administrative Support,0.6648,0.61,0.6608,0.6574,0.8277,Medium,actual,High school diploma or equivalent,118710
+43-4199,"Information and Record Clerks, All Other",43,Office and Administrative Support,0.747,0.945,0.5,0.7019,0.6905,High,imputed,,134920
+43-5011,Cargo and Freight Agents,43,Office and Administrative Support,0.7137,0.99,0.575,0.3983,0.6289,High,actual,High school diploma or equivalent,97670
+43-5011,Cargo and Freight Agents,43,Office and Administrative Support,0.7562,0.99,0.745,0.3983,0.6289,High,actual,High school diploma or equivalent,97670
+43-5021,Couriers and Messengers,43,Office and Administrative Support,0.6726,0.94,0.5192,0.6448,0.2521,Medium,actual,High school diploma or equivalent,68640
+43-5031,Public Safety Telecommunicators,43,Office and Administrative Support,0.5248,0.49,0.8208,0.3635,0.3389,Medium,actual,High school diploma or equivalent,102500
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",43,Office and Administrative Support,0.7004,0.96,0.5983,0.4666,0.4902,High,actual,High school diploma or equivalent,202810
+43-5041,"Meter Readers, Utilities",43,Office and Administrative Support,0.7896,0.85,0.6617,0.9429,0.6373,High,actual,High school diploma or equivalent,19430
+43-5051,Postal Service Clerks,43,Office and Administrative Support,0.7558,0.95,0.5917,0.585,0.7395,High,actual,High school diploma or equivalent,73720
+43-5052,Postal Service Mail Carriers,43,Office and Administrative Support,0.5754,0.68,0.3125,0.5474,0.7717,Medium,actual,High school diploma or equivalent,328820
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",43,Office and Administrative Support,0.6555,0.79,0.4433,0.4721,0.895,Medium,actual,High school diploma or equivalent,105200
+43-5061,"Production, Planning, and Expediting Clerks",43,Office and Administrative Support,0.6717,0.88,0.6583,0.305,0.6275,Medium,actual,High school diploma or equivalent,390160
+43-5071,"Shipping, Receiving, and Inventory Clerks",43,Office and Administrative Support,0.6048,0.98,0.5683,0.1657,0.2507,Medium,actual,High school diploma or equivalent,816870
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43,Office and Administrative Support,0.745,0.95,0.7633,0.7786,0.1232,High,actual,High school diploma or equivalent,53300
+43-6011,Executive Secretaries and Executive Administrative Assistants,43,Office and Administrative Support,0.7244,0.86,0.6325,0.7827,0.4384,High,actual,High school diploma or equivalent,459910
+43-6012,Legal Secretaries and Administrative Assistants,43,Office and Administrative Support,0.8331,0.98,0.7625,0.6852,0.7563,High,actual,High school diploma or equivalent,156280
+43-6013,Medical Secretaries and Administrative Assistants,43,Office and Administrative Support,0.5948,0.81,0.7375,0.0237,0.5448,Medium,actual,High school diploma or equivalent,961610
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43,Office and Administrative Support,0.7449,0.96,0.5692,0.8022,0.388,High,actual,High school diploma or equivalent,1706790
+43-9021,Data Entry Keyers,43,Office and Administrative Support,0.8322,0.99,0.7883,0.8593,0.4482,High,actual,High school diploma or equivalent,127080
+43-9022,Word Processors and Typists,43,Office and Administrative Support,0.7556,0.81,0.6208,0.9095,0.6303,High,actual,High school diploma or equivalent,35010
+43-9031,Desktop Publishers,43,Office and Administrative Support,0.4509,0.16,0.5783,0.993,0.2913,Medium,actual,Associate's degree,3350
+43-9041,Insurance Claims and Policy Processing Clerks,43,Office and Administrative Support,0.8123,0.98,0.6825,0.8175,0.5742,High,actual,High school diploma or equivalent,214260
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",43,Office and Administrative Support,0.727,0.94,0.4417,0.9192,0.3782,High,actual,High school diploma or equivalent,55230
+43-9061,"Office Clerks, General",43,Office and Administrative Support,0.7255,0.96,0.5783,0.7493,0.3137,High,actual,High school diploma or equivalent,2464940
+43-9071,"Office Machine Operators, Except Computer",43,Office and Administrative Support,0.7678,0.92,0.4708,0.961,0.5994,High,actual,High school diploma or equivalent,25130
+43-9081,Proofreaders and Copy Markers,43,Office and Administrative Support,0.7384,0.84,0.6217,0.9721,0.3501,High,actual,Bachelor's degree,4580
+43-9111,Statistical Assistants,43,Office and Administrative Support,0.8024,0.66,0.8,0.9777,0.9524,High,actual,Bachelor's degree,4710
+43-9199,"Office and Administrative Support Workers, All Other",43,Office and Administrative Support,0.665,0.945,0.5,0.5209,0.3852,Medium,imputed,,192260
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45,"Farming, Fishing, and Forestry",0.5013,0.57,0.59,0.1323,0.6625,Medium,actual,High school diploma or equivalent,27960
+45-2011,Agricultural Inspectors,45,"Farming, Fishing, and Forestry",0.7417,0.94,0.69,0.3538,0.8165,High,actual,Bachelor's degree,14410
+45-2021,Animal Breeders,45,"Farming, Fishing, and Forestry",0.7417,0.95,0.5217,0.9304,0.3011,High,actual,High school diploma or equivalent,1330
+45-2041,"Graders and Sorters, Agricultural Products",45,"Farming, Fishing, and Forestry",0.4896,0.41,0.4825,0.9081,0.1555,Medium,actual,No formal educational credential,25180
+45-2091,Agricultural Equipment Operators,45,"Farming, Fishing, and Forestry",0.5687,0.83,0.5233,0.3454,0.2451,Medium,imputed,,28500
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45,"Farming, Fishing, and Forestry",0.5986,0.83,0.5342,0.6086,0.0756,Medium,imputed,,265500
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45,"Farming, Fishing, and Forestry",0.6452,0.83,0.575,0.7033,0.1919,Medium,imputed,,32810
+45-2099,"Agricultural Workers, All Other",45,"Farming, Fishing, and Forestry",0.6928,0.83,0.5,0.9582,0.2941,Medium,imputed,,3620
+45-4011,Forest and Conservation Workers,45,"Farming, Fishing, and Forestry",0.6656,0.87,0.5675,0.7841,0.1261,Medium,actual,High school diploma or equivalent,6050
+45-4021,Fallers,45,"Farming, Fishing, and Forestry",0.6652,0.76,0.205,0.8997,0.8669,Medium,actual,High school diploma or equivalent,3130
+45-4022,Logging Equipment Operators,45,"Farming, Fishing, and Forestry",0.6396,0.79,0.3775,0.7646,0.5084,Medium,actual,High school diploma or equivalent,21060
+45-4023,Log Graders and Scalers,45,"Farming, Fishing, and Forestry",0.7826,0.97,0.6558,0.6114,0.7227,High,actual,High school diploma or equivalent,3070
+45-4029,"Logging Workers, All Other",45,"Farming, Fishing, and Forestry",0.7128,0.83,0.5,0.9735,0.4076,High,imputed,,1700
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47,Construction and Extraction,0.3394,0.17,0.5892,0.0933,0.7031,Medium,actual,High school diploma or equivalent,812210
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47,Construction and Extraction,0.3213,0.17,0.5167,0.0933,0.7031,Medium,actual,High school diploma or equivalent,812210
+47-2011,Boilermakers,47,Construction and Extraction,0.6493,0.68,0.5108,0.851,0.5294,Medium,actual,High school diploma or equivalent,10190
+47-2021,Brickmasons and Blockmasons,47,Construction and Extraction,0.6904,0.82,0.495,0.7563,0.5826,Medium,actual,High school diploma or equivalent,52550
+47-2022,Stonemasons,47,Construction and Extraction,0.6892,0.89,0.49,0.9262,0.1695,Medium,actual,High school diploma or equivalent,7820
+47-2031,Carpenters,47,Construction and Extraction,0.624,0.72,0.6033,0.5905,0.4468,Medium,actual,High school diploma or equivalent,670090
+47-2041,Carpet Installers,47,Construction and Extraction,0.7009,0.87,0.365,0.9596,0.465,High,actual,No formal educational credential,13780
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47,Construction and Extraction,0.4938,0.79,0.5117,0.0195,0.3067,Medium,actual,No formal educational credential,23640
+47-2043,Floor Sanders and Finishers,47,Construction and Extraction,0.6799,0.87,0.5367,0.7437,0.3263,Medium,actual,No formal educational credential,3720
+47-2044,Tile and Stone Setters,47,Construction and Extraction,0.5882,0.75,0.4008,0.6226,0.423,Medium,actual,No formal educational credential,35850
+47-2051,Cement Masons and Concrete Finishers,47,Construction and Extraction,0.6463,0.94,0.515,0.3189,0.5182,Medium,actual,No formal educational credential,206170
+47-2053,Terrazzo Workers and Finishers,47,Construction and Extraction,0.641,0.88,0.3717,0.9763,0.0056,Medium,actual,High school diploma or equivalent,1180
+47-2061,Construction Laborers,47,Construction and Extraction,0.6408,0.88,0.6292,0.3412,0.4216,Medium,actual,No formal educational credential,1096780
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",47,Construction and Extraction,0.61,0.83,0.4108,0.6685,0.2773,Medium,actual,High school diploma or equivalent,41820
+47-2072,Pile Driver Operators,47,Construction and Extraction,0.7453,0.82,0.5992,0.8983,0.5854,High,actual,High school diploma or equivalent,2310
+47-2073,Operating Engineers and Other Construction Equipment Operators,47,Construction and Extraction,0.6543,0.95,0.6,0.1643,0.6092,Medium,actual,High school diploma or equivalent,478090
+47-2081,Drywall and Ceiling Tile Installers,47,Construction and Extraction,0.6067,0.79,0.3042,0.7716,0.402,Medium,actual,No formal educational credential,83080
+47-2082,Tapers,47,Construction and Extraction,0.5489,0.62,0.1858,0.8816,0.521,Medium,actual,No formal educational credential,12840
+47-2111,Electricians,47,Construction and Extraction,0.3816,0.15,0.6325,0.2396,0.7703,Medium,actual,High school diploma or equivalent,757220
+47-2121,Glaziers,47,Construction and Extraction,0.572,0.73,0.5033,0.2507,0.6933,Medium,actual,High school diploma or equivalent,58480
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",47,Construction and Extraction,0.4927,0.83,0.3583,0.0752,0.3739,Medium,actual,No formal educational credential,44440
+47-2132,"Insulation Workers, Mechanical",47,Construction and Extraction,0.5441,0.64,0.4125,0.4206,0.6723,Medium,actual,High school diploma or equivalent,25660
+47-2141,"Painters, Construction and Maintenance",47,Construction and Extraction,0.5994,0.75,0.5367,0.5056,0.4272,Medium,actual,No formal educational credential,225190
+47-2142,Paperhangers,47,Construction and Extraction,0.6604,0.87,0.2925,0.9526,0.3249,Medium,actual,No formal educational credential,1570
+47-2151,Pipelayers,47,Construction and Extraction,0.5606,0.62,0.345,0.7061,0.5672,Medium,actual,No formal educational credential,33050
+47-2152,"Plumbers, Pipefitters, and Steamfitters",47,Construction and Extraction,0.4377,0.35,0.4983,0.3886,0.6359,Medium,actual,High school diploma or equivalent,465840
+47-2152,"Plumbers, Pipefitters, and Steamfitters",47,Construction and Extraction,0.4612,0.35,0.5925,0.3886,0.6359,Medium,actual,High school diploma or equivalent,465840
+47-2161,Plasterers and Stucco Masons,47,Construction and Extraction,0.671,0.84,0.4642,0.8217,0.3641,Medium,actual,No formal educational credential,19310
+47-2171,Reinforcing Iron and Rebar Workers,47,Construction and Extraction,0.7357,0.9,0.3717,0.8384,0.7675,High,actual,High school diploma or equivalent,13800
+47-2181,Roofers,47,Construction and Extraction,0.5937,0.9,0.4383,0.4011,0.2927,Medium,actual,No formal educational credential,135490
+47-2211,Sheet Metal Workers,47,Construction and Extraction,0.6734,0.82,0.6208,0.6295,0.4286,Medium,actual,High school diploma or equivalent,119770
+47-2221,Structural Iron and Steel Workers,47,Construction and Extraction,0.6655,0.83,0.3233,0.6866,0.7689,Medium,actual,High school diploma or equivalent,68380
+47-2231,Solar Photovoltaic Installers,47,Construction and Extraction,0.5489,0.82,0.5458,0.0,0.563,Medium,imputed,,31350
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",47,Construction and Extraction,0.647,0.83,0.4367,0.9401,0.119,Medium,actual,No formal educational credential,14170
+47-3012,Helpers--Carpenters,47,Construction and Extraction,0.6719,0.92,0.4,0.9136,0.1415,Medium,actual,No formal educational credential,21680
+47-3013,Helpers--Electricians,47,Construction and Extraction,0.6676,0.74,0.7417,0.7396,0.2549,Medium,actual,High school diploma or equivalent,63630
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",47,Construction and Extraction,0.6635,0.94,0.2983,0.8747,0.2535,Medium,actual,No formal educational credential,7490
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47,Construction and Extraction,0.5177,0.57,0.3933,0.7772,0.2395,Medium,actual,High school diploma or equivalent,44330
+47-3016,Helpers--Roofers,47,Construction and Extraction,0.604,0.72,0.5092,0.8858,0.077,Medium,actual,No formal educational credential,6030
+47-3019,"Helpers, Construction Trades, All Other",47,Construction and Extraction,0.5866,0.82,0.5,0.5724,0.1275,Medium,imputed,,24770
+47-4011,Construction and Building Inspectors,47,Construction and Extraction,0.549,0.63,0.7233,0.0682,0.6835,Medium,actual,High school diploma or equivalent,146720
+47-4011,Construction and Building Inspectors,47,Construction and Extraction,0.5563,0.63,0.7525,0.0682,0.6835,Medium,actual,High school diploma or equivalent,146720
+47-4021,Elevator and Escalator Installers and Repairers,47,Construction and Extraction,0.4687,0.39,0.6242,0.6783,0.1401,Medium,actual,High school diploma or equivalent,23790
+47-4031,Fence Erectors,47,Construction and Extraction,0.5919,0.92,0.4092,0.4262,0.2423,Medium,actual,No formal educational credential,24480
+47-4041,Hazardous Materials Removal Workers,47,Construction and Extraction,0.5276,0.53,0.6033,0.2201,0.8053,Medium,actual,High school diploma or equivalent,51710
+47-4051,Highway Maintenance Workers,47,Construction and Extraction,0.6334,0.87,0.5225,0.4304,0.458,Medium,actual,High school diploma or equivalent,154960
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,47,Construction and Extraction,0.6403,0.89,0.5917,0.0905,0.7885,Medium,actual,High school diploma or equivalent,19580
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,47,Construction and Extraction,0.5734,0.83,0.4883,0.2772,0.4258,Medium,actual,No formal educational credential,30650
+47-5011,"Derrick Operators, Oil and Gas",47,Construction and Extraction,0.6273,0.8,0.4417,0.5822,0.5364,Medium,actual,No formal educational credential,10590
+47-5012,"Rotary Drill Operators, Oil and Gas",47,Construction and Extraction,0.6142,0.53,0.5967,0.883,0.5098,Medium,actual,No formal educational credential,12600
+47-5013,"Service Unit Operators, Oil and Gas",47,Construction and Extraction,0.7763,0.93,0.5383,0.7089,0.8529,High,actual,No formal educational credential,43140
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47,Construction and Extraction,0.6365,0.82,0.5342,0.5,0.5,Medium,imputed,,34480
+47-5023,"Earth Drillers, Except Oil and Gas",47,Construction and Extraction,0.6168,0.82,0.455,0.5,0.5,Medium,imputed,,19450
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",47,Construction and Extraction,0.6784,0.82,0.7017,0.5,0.5,Medium,imputed,,5100
+47-5041,Continuous Mining Machine Operators,47,Construction and Extraction,0.5607,0.54,0.4392,0.5613,0.8179,Medium,actual,No formal educational credential,14000
+47-5043,"Roof Bolters, Mining",47,Construction and Extraction,0.6203,0.82,0.4692,0.5,0.5,Medium,imputed,,2160
+47-5044,"Loading and Moving Machine Operators, Underground Mining",47,Construction and Extraction,0.5849,0.82,0.3275,0.5,0.5,Medium,imputed,,5930
+47-5049,"Underground Mining Machine Operators, All Other",47,Construction and Extraction,0.6058,0.82,0.5,0.5306,0.3109,Medium,imputed,,3180
+47-5051,"Rock Splitters, Quarry",47,Construction and Extraction,0.6591,0.96,0.3533,0.8928,0.0546,Medium,actual,No formal educational credential,3320
+47-5071,"Roustabouts, Oil and Gas",47,Construction and Extraction,0.6693,0.68,0.5492,0.7591,0.7213,Medium,actual,No formal educational credential,44970
+47-5081,Helpers--Extraction Workers,47,Construction and Extraction,0.5518,0.37,0.6925,0.9791,0.2325,Medium,actual,High school diploma or equivalent,6700
+47-5099,"Extraction Workers, All Other",47,Construction and Extraction,0.7276,0.82,0.5,0.6421,0.9748,High,imputed,,5540
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",49,"Installation, Maintenance, and Repair",0.2974,0.003,0.6783,0.1184,0.6863,Low,actual,High school diploma or equivalent,617500
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",49,"Installation, Maintenance, and Repair",0.6826,0.74,0.4358,0.922,0.6218,Medium,actual,"Some college, no degree",65600
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",49,"Installation, Maintenance, and Repair",0.8042,0.93,0.7075,0.7925,0.6457,High,actual,Associate's degree,11140
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",49,"Installation, Maintenance, and Repair",0.6073,0.36,0.6258,0.9331,0.8011,Medium,actual,Postsecondary nondegree award,140920
+49-2091,Avionics Technicians,49,"Installation, Maintenance, and Repair",0.6321,0.7,0.7258,0.493,0.4804,Medium,actual,Associate's degree,18830
+49-2092,"Electric Motor, Power Tool, and Related Repairers",49,"Installation, Maintenance, and Repair",0.6683,0.76,0.68,0.6267,0.4594,Medium,actual,Postsecondary nondegree award,14450
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",49,"Installation, Maintenance, and Repair",0.7362,0.91,0.6192,0.9359,0.2017,High,actual,Postsecondary nondegree award,6940
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49,"Installation, Maintenance, and Repair",0.4771,0.41,0.6875,0.3468,0.479,Medium,actual,Postsecondary nondegree award,65010
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",49,"Installation, Maintenance, and Repair",0.5478,0.38,0.7267,0.6504,0.5602,Medium,actual,Postsecondary nondegree award,20720
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",49,"Installation, Maintenance, and Repair",0.5825,0.61,0.6417,0.8064,0.112,Medium,actual,Postsecondary nondegree award,8550
+49-2097,Audiovisual Equipment Installers and Repairers,49,"Installation, Maintenance, and Repair",0.5901,0.65,0.6283,0.8357,0.0392,Medium,actual,Postsecondary nondegree award,19780
+49-2098,Security and Fire Alarm Systems Installers,49,"Installation, Maintenance, and Repair",0.6126,0.82,0.6483,0.1838,0.5714,Medium,actual,High school diploma or equivalent,86340
+49-3011,Aircraft Mechanics and Service Technicians,49,"Installation, Maintenance, and Repair",0.6176,0.71,0.7783,0.4095,0.381,Medium,actual,Postsecondary nondegree award,138090
+49-3021,Automotive Body and Related Repairers,49,"Installation, Maintenance, and Repair",0.6481,0.91,0.5475,0.4053,0.4412,Medium,actual,High school diploma or equivalent,149310
+49-3022,Automotive Glass Installers and Repairers,49,"Installation, Maintenance, and Repair",0.4049,0.55,0.3083,0.4359,0.1373,Medium,actual,High school diploma or equivalent,20310
+49-3023,Automotive Service Technicians and Mechanics,49,"Installation, Maintenance, and Repair",0.4993,0.59,0.5167,0.3565,0.4188,Medium,actual,Postsecondary nondegree award,704640
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,49,"Installation, Maintenance, and Repair",0.5795,0.73,0.6675,0.3426,0.3473,Medium,actual,High school diploma or equivalent,289960
+49-3041,Farm Equipment Mechanics and Service Technicians,49,"Installation, Maintenance, and Repair",0.5408,0.75,0.5858,0.3238,0.1975,Medium,actual,High school diploma or equivalent,37870
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",49,"Installation, Maintenance, and Repair",0.4219,0.4,0.6917,0.1518,0.3908,Medium,actual,High school diploma or equivalent,176600
+49-3043,Rail Car Repairers,49,"Installation, Maintenance, and Repair",0.7102,0.88,0.5333,0.7145,0.5462,High,actual,High school diploma or equivalent,21350
+49-3051,Motorboat Mechanics and Service Technicians,49,"Installation, Maintenance, and Repair",0.5126,0.66,0.5617,0.422,0.1583,Medium,actual,High school diploma or equivalent,23220
+49-3052,Motorcycle Mechanics,49,"Installation, Maintenance, and Repair",0.6526,0.79,0.6558,0.6657,0.2633,Medium,actual,Postsecondary nondegree award,13510
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,49,"Installation, Maintenance, and Repair",0.6041,0.93,0.5867,0.2716,0.2073,Medium,actual,High school diploma or equivalent,36060
+49-3091,Bicycle Repairers,49,"Installation, Maintenance, and Repair",0.6179,0.94,0.51,0.4972,0.0994,Medium,actual,High school diploma or equivalent,12170
+49-3092,Recreational Vehicle Service Technicians,49,"Installation, Maintenance, and Repair",0.4417,0.59,0.525,0.2967,0.1008,Medium,actual,High school diploma or equivalent,17430
+49-3093,Tire Repairers and Changers,49,"Installation, Maintenance, and Repair",0.5459,0.7,0.5233,0.5292,0.1947,Medium,actual,High school diploma or equivalent,108410
+49-9011,Mechanical Door Repairers,49,"Installation, Maintenance, and Repair",0.5636,0.91,0.465,0.2033,0.2843,Medium,actual,High school diploma or equivalent,27120
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",49,"Installation, Maintenance, and Repair",0.5823,0.63,0.6558,0.5891,0.3235,Medium,actual,High school diploma or equivalent,48240
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49,"Installation, Maintenance, and Repair",0.4971,0.65,0.5833,0.1462,0.4132,Medium,actual,Postsecondary nondegree award,409670
+49-9031,Home Appliance Repairers,49,"Installation, Maintenance, and Repair",0.5478,0.72,0.58,0.4387,0.1807,Medium,actual,High school diploma or equivalent,32150
+49-9041,Industrial Machinery Mechanics,49,"Installation, Maintenance, and Repair",0.5334,0.67,0.5967,0.1894,0.5224,Medium,actual,High school diploma or equivalent,439640
+49-9043,"Maintenance Workers, Machinery",49,"Installation, Maintenance, and Repair",0.6849,0.86,0.5183,0.8412,0.2871,Medium,actual,High school diploma or equivalent,60020
+49-9044,Millwrights,49,"Installation, Maintenance, and Repair",0.6264,0.59,0.6875,0.6128,0.6401,Medium,actual,High school diploma or equivalent,40330
+49-9045,"Refractory Materials Repairers, Except Brickmasons",49,"Installation, Maintenance, and Repair",0.6612,0.82,0.455,0.5404,0.7423,Medium,actual,High school diploma or equivalent,1080
+49-9051,Electrical Power-Line Installers and Repairers,49,"Installation, Maintenance, and Repair",0.2374,0.097,0.3758,0.2646,0.3445,Low,actual,High school diploma or equivalent,131070
+49-9052,Telecommunications Line Installers and Repairers,49,"Installation, Maintenance, and Repair",0.5902,0.49,0.6233,0.7507,0.5882,Medium,actual,High school diploma or equivalent,97720
+49-9061,Camera and Photographic Equipment Repairers,49,"Installation, Maintenance, and Repair",0.7294,0.97,0.3933,0.9749,0.3207,High,actual,Associate's degree,1650
+49-9062,Medical Equipment Repairers,49,"Installation, Maintenance, and Repair",0.3739,0.27,0.655,0.0571,0.605,Medium,actual,Associate's degree,65990
+49-9063,Musical Instrument Repairers and Tuners,49,"Installation, Maintenance, and Repair",0.7264,0.91,0.4242,0.9248,0.4762,High,actual,High school diploma or equivalent,5380
+49-9064,Watch and Clock Repairers,49,"Installation, Maintenance, and Repair",0.724,0.99,0.535,0.9638,0.0098,High,actual,High school diploma or equivalent,1310
+49-9069,"Precision Instrument and Equipment Repairers, All Other",49,"Installation, Maintenance, and Repair",0.6603,0.715,0.5,0.7214,0.7003,Medium,imputed,,9400
+49-9071,"Maintenance and Repair Workers, General",49,"Installation, Maintenance, and Repair",0.5326,0.64,0.6483,0.3203,0.3361,Medium,actual,High school diploma or equivalent,1529700
+49-9081,Wind Turbine Service Technicians,49,"Installation, Maintenance, and Repair",0.5966,0.715,0.735,0.0125,0.8291,Medium,imputed,,9980
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",49,"Installation, Maintenance, and Repair",0.6835,0.94,0.495,0.7897,0.1723,Medium,actual,High school diploma or equivalent,26410
+49-9092,Commercial Divers,49,"Installation, Maintenance, and Repair",0.3014,0.18,0.5375,0.454,0.028,Medium,actual,Postsecondary nondegree award,3450
+49-9094,Locksmiths and Safe Repairers,49,"Installation, Maintenance, and Repair",0.6822,0.77,0.64,0.6811,0.5196,Medium,actual,High school diploma or equivalent,15040
+49-9095,Manufactured Building and Mobile Home Installers,49,"Installation, Maintenance, and Repair",0.3093,0.18,0.5133,0.4345,0.1471,Medium,actual,High school diploma or equivalent,3020
+49-9096,Riggers,49,"Installation, Maintenance, and Repair",0.637,0.89,0.6042,0.3705,0.3725,Medium,actual,High school diploma or equivalent,22530
+49-9097,Signal and Track Switch Repairers,49,"Installation, Maintenance, and Repair",0.5688,0.9,0.4508,0.2799,0.2675,Medium,actual,High school diploma or equivalent,8720
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",49,"Installation, Maintenance, and Repair",0.6178,0.79,0.5192,0.6323,0.3039,Medium,actual,High school diploma or equivalent,95580
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",49,"Installation, Maintenance, and Repair",0.5923,0.715,0.6333,0.2883,0.6022,Medium,imputed,,176300
+51-1011,First-Line Supervisors of Production and Operating Workers,51,Production,0.3715,0.016,0.6775,0.3621,0.8221,Medium,actual,High school diploma or equivalent,673430
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",51,Production,0.7003,0.79,0.6358,0.8008,0.4342,High,actual,High school diploma or equivalent,34020
+51-2021,"Coil Winders, Tapers, and Finishers",51,Production,0.505,0.73,0.4425,0.3997,0.1499,Medium,actual,High school diploma or equivalent,12840
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",51,Production,0.6523,0.88,0.5,0.6643,0.2829,Medium,imputed,,246970
+51-2031,Engine and Other Machine Assemblers,51,Production,0.6942,0.82,0.4708,0.876,0.4888,Medium,actual,High school diploma or equivalent,34000
+51-2041,Structural Metal Fabricators and Fitters,51,Production,0.5338,0.41,0.5325,0.8914,0.3894,Medium,actual,High school diploma or equivalent,52360
+51-2051,Fiberglass Laminators and Fabricators,51,Production,0.6553,0.88,0.5133,0.5,0.5,Medium,imputed,,16170
+51-2061,Timing Device Assemblers and Adjusters,51,Production,0.641,0.88,0.4558,0.5,0.5,Medium,imputed,,250
+51-3011,Bakers,51,Production,0.5059,0.89,0.3625,0.1156,0.2409,Medium,actual,No formal educational credential,236200
+51-3021,Butchers and Meat Cutters,51,Production,0.6629,0.93,0.51,0.4554,0.4818,Medium,actual,No formal educational credential,136430
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",51,Production,0.6667,0.94,0.6317,0.5933,0.0938,Medium,actual,No formal educational credential,145700
+51-3023,Slaughterers and Meat Packers,51,Production,0.4511,0.6,0.3417,0.6045,0.0322,Medium,actual,No formal educational credential,69950
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",51,Production,0.6455,0.91,0.6308,0.5362,0.1106,Medium,actual,No formal educational credential,20370
+51-3092,Food Batchmakers,51,Production,0.5492,0.7,0.685,0.351,0.1849,Medium,actual,High school diploma or equivalent,174520
+51-3093,Food Cooking Machine Operators and Tenders,51,Production,0.5479,0.61,0.6483,0.5334,0.2339,Medium,actual,High school diploma or equivalent,31250
+51-3099,"Food Processing Workers, All Other",51,Production,0.4897,0.88,0.5,0.0362,0.0364,Medium,imputed,,65000
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.6962,0.91,0.5717,0.7869,0.2129,Medium,actual,High school diploma or equivalent,60840
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.7726,0.93,0.515,0.9666,0.5238,High,actual,High school diploma or equivalent,8930
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.655,0.83,0.6233,0.5669,0.3585,Medium,actual,High school diploma or equivalent,25250
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.602,0.78,0.5175,0.617,0.2479,Medium,actual,High school diploma or equivalent,171200
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.8315,0.94,0.6692,0.9819,0.612,High,actual,High school diploma or equivalent,4680
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.693,0.95,0.5792,0.5919,0.3319,Medium,actual,High school diploma or equivalent,67000
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.7414,0.84,0.5767,0.9499,0.4748,High,actual,High school diploma or equivalent,16710
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.8013,0.98,0.6083,0.9206,0.4874,High,actual,High school diploma or equivalent,12460
+51-4041,Machinists,51,Production,0.6156,0.65,0.5458,0.8426,0.3375,Medium,actual,High school diploma or equivalent,287050
+51-4051,Metal-Refining Furnace Operators and Tenders,51,Production,0.6451,0.88,0.5508,0.5627,0.2857,Medium,actual,High school diploma or equivalent,16780
+51-4052,"Pourers and Casters, Metal",51,Production,0.6836,0.87,0.49,0.9415,0.1653,Medium,actual,High school diploma or equivalent,4560
+51-4061,"Model Makers, Metal and Plastic",51,Production,0.8014,0.93,0.4742,0.9652,0.7857,High,actual,High school diploma or equivalent,2610
+51-4062,"Patternmakers, Metal and Plastic",51,Production,0.7297,0.9,0.4467,0.9624,0.437,High,actual,High school diploma or equivalent,1470
+51-4071,Foundry Mold and Coremakers,51,Production,0.5623,0.67,0.4458,0.7618,0.2031,Medium,actual,High school diploma or equivalent,12790
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.6509,0.95,0.4642,0.6198,0.2059,Medium,actual,High school diploma or equivalent,150470
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.7142,0.91,0.7642,0.5975,0.2647,High,actual,High school diploma or equivalent,124590
+51-4111,Tool and Die Makers,51,Production,0.7082,0.84,0.47,0.8092,0.619,High,actual,High school diploma or equivalent,56930
+51-4121,"Welders, Cutters, Solderers, and Brazers",51,Production,0.6055,0.94,0.3375,0.3788,0.4622,Medium,actual,High school diploma or equivalent,416210
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",51,Production,0.5723,0.61,0.5183,0.6532,0.4538,Medium,actual,High school diploma or equivalent,31600
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.7232,0.91,0.4933,0.8705,0.4118,High,actual,High school diploma or equivalent,14000
+51-4192,"Layout Workers, Metal and Plastic",51,Production,0.6567,0.84,0.5342,0.8552,0.1078,Medium,actual,High school diploma or equivalent,5970
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",51,Production,0.7118,0.92,0.5125,0.7799,0.3978,High,actual,High school diploma or equivalent,32410
+51-4194,"Tool Grinders, Filers, and Sharpeners",51,Production,0.6948,0.88,0.5108,0.7994,0.3683,Medium,actual,High school diploma or equivalent,5600
+51-4199,"Metal Workers and Plastic Workers, All Other",51,Production,0.7365,0.88,0.5,0.929,0.4916,High,imputed,,15900
+51-5111,Prepress Technicians and Workers,51,Production,0.7986,0.97,0.5325,0.7939,0.7913,High,actual,Postsecondary nondegree award,23840
+51-5112,Printing Press Operators,51,Production,0.7315,0.83,0.5917,0.7465,0.6821,High,actual,High school diploma or equivalent,144260
+51-5113,Print Binding and Finishing Workers,51,Production,0.7521,0.95,0.5083,0.8607,0.486,High,actual,High school diploma or equivalent,33180
+51-6011,Laundry and Dry-Cleaning Workers,51,Production,0.4824,0.71,0.2692,0.6031,0.07,Medium,actual,No formal educational credential,198040
+51-6021,"Pressers, Textile, Garment, and Related Materials",51,Production,0.5908,0.81,0.3183,0.8942,0.056,Medium,actual,No formal educational credential,26120
+51-6031,Sewing Machine Operators,51,Production,0.6223,0.89,0.325,0.8287,0.1289,Medium,actual,No formal educational credential,104880
+51-6041,Shoe and Leather Workers and Repairers,51,Production,0.5055,0.52,0.42,0.7159,0.3291,Medium,actual,High school diploma or equivalent,7450
+51-6042,Shoe Machine Operators and Tenders,51,Production,0.771,0.97,0.4867,0.7187,0.7843,High,actual,High school diploma or equivalent,3280
+51-6051,"Sewers, Hand",51,Production,0.7563,0.99,0.3233,0.9833,0.5518,High,actual,No formal educational credential,2190
+51-6052,"Tailors, Dressmakers, and Custom Sewers",51,Production,0.6459,0.84,0.3142,0.9109,0.3277,Medium,actual,No formal educational credential,13920
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,51,Production,0.7369,0.97,0.5058,0.9485,0.2185,High,actual,High school diploma or equivalent,5310
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",51,Production,0.7179,0.95,0.4925,0.8955,0.2381,High,actual,High school diploma or equivalent,9000
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51,Production,0.6541,0.73,0.5492,0.9318,0.2563,Medium,actual,High school diploma or equivalent,13030
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51,Production,0.6954,0.96,0.4108,0.8872,0.2087,Medium,actual,High school diploma or equivalent,22020
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",51,Production,0.7146,0.88,0.6517,0.8733,0.1667,High,actual,High school diploma or equivalent,12850
+51-6092,Fabric and Apparel Patternmakers,51,Production,0.3585,0.0049,0.6392,0.9513,0.0434,Medium,actual,High school diploma or equivalent,2950
+51-6093,Upholsterers,51,Production,0.4925,0.39,0.4075,0.9345,0.3179,Medium,actual,High school diploma or equivalent,20140
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",51,Production,0.6682,0.88,0.5,0.6894,0.3557,Medium,imputed,,13530
+51-7011,Cabinetmakers and Bench Carpenters,51,Production,0.7027,0.92,0.4833,0.837,0.3095,High,actual,High school diploma or equivalent,77170
+51-7021,Furniture Finishers,51,Production,0.6466,0.87,0.4542,0.7382,0.2493,Medium,actual,High school diploma or equivalent,14480
+51-7031,"Model Makers, Wood",51,Production,0.8374,0.96,0.5675,0.9875,0.7605,High,actual,High school diploma or equivalent,280
+51-7032,"Patternmakers, Wood",51,Production,0.843,0.91,0.5325,0.9805,0.9986,High,actual,High school diploma or equivalent,220
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",51,Production,0.5977,0.86,0.2908,0.8134,0.1218,Medium,actual,High school diploma or equivalent,40850
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51,Production,0.6699,0.97,0.4025,0.8189,0.1162,Medium,actual,High school diploma or equivalent,61420
+51-7099,"Woodworkers, All Other",51,Production,0.6391,0.88,0.5,0.6142,0.2619,Medium,imputed,,5490
+51-8011,Nuclear Power Reactor Operators,51,Production,0.8065,0.95,0.8017,0.7604,0.493,High,actual,High school diploma or equivalent,5150
+51-8012,Power Distributors and Dispatchers,51,Production,0.6857,0.64,0.82,0.8538,0.3599,Medium,actual,High school diploma or equivalent,8520
+51-8013,Power Plant Operators,51,Production,0.702,0.85,0.5958,0.7131,0.4692,High,actual,High school diploma or equivalent,29320
+51-8013,Power Plant Operators,51,Production,0.7286,0.85,0.7025,0.7131,0.4692,High,actual,High school diploma or equivalent,29320
+51-8013,Power Plant Operators,51,Production,0.7134,0.85,0.6417,0.7131,0.4692,High,actual,High school diploma or equivalent,29320
+51-8021,Stationary Engineers and Boiler Operators,51,Production,0.7132,0.89,0.7017,0.6713,0.3165,High,actual,High school diploma or equivalent,28250
+51-8031,Water and Wastewater Treatment Plant and System Operators,51,Production,0.6103,0.61,0.7983,0.429,0.5392,Medium,actual,High school diploma or equivalent,128490
+51-8091,Chemical Plant and System Operators,51,Production,0.7263,0.85,0.565,0.9373,0.3838,High,actual,High school diploma or equivalent,16610
+51-8092,Gas Plant Operators,51,Production,0.6246,0.78,0.7292,0.1755,0.6345,Medium,actual,High school diploma or equivalent,18030
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",51,Production,0.6398,0.71,0.5725,0.7242,0.4524,Medium,actual,High school diploma or equivalent,33160
+51-8099,"Plant and System Operators, All Other",51,Production,0.7259,0.86,0.7592,0.2535,0.9426,High,actual,High school diploma or equivalent,14080
+51-9011,Chemical Equipment Operators and Tenders,51,Production,0.6047,0.76,0.6883,0.0181,0.8333,Medium,actual,High school diploma or equivalent,139630
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",51,Production,0.603,0.88,0.5417,0.1922,0.514,Medium,actual,High school diploma or equivalent,60100
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",51,Production,0.7058,0.97,0.5233,0.773,0.2157,High,actual,High school diploma or equivalent,26000
+51-9022,"Grinding and Polishing Workers, Hand",51,Production,0.7442,0.97,0.5733,0.9916,0.0966,High,actual,No formal educational credential,10510
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",51,Production,0.6762,0.83,0.5175,0.8496,0.2997,Medium,actual,High school diploma or equivalent,94920
+51-9031,"Cutters and Trimmers, Hand",51,Production,0.6135,0.64,0.4442,0.9457,0.3824,Medium,actual,No formal educational credential,6060
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",51,Production,0.699,0.86,0.5725,0.8482,0.2815,Medium,actual,High school diploma or equivalent,44980
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51,Production,0.7592,0.93,0.6575,0.7813,0.444,High,actual,High school diploma or equivalent,58770
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51,Production,0.5523,0.37,0.6383,0.7855,0.584,Medium,actual,High school diploma or equivalent,14280
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",51,Production,0.7139,0.98,0.6867,0.376,0.5,High,actual,High school diploma or equivalent,597370
+51-9071,Jewelers and Precious Stone and Metal Workers,51,Production,0.6876,0.95,0.4967,0.7103,0.2759,Medium,actual,High school diploma or equivalent,22440
+51-9071,Jewelers and Precious Stone and Metal Workers,51,Production,0.6649,0.95,0.4058,0.7103,0.2759,Medium,actual,High school diploma or equivalent,22440
+51-9081,Dental Laboratory Technicians,51,Production,0.7445,0.97,0.6883,0.4958,0.5686,High,actual,High school diploma or equivalent,34410
+51-9082,Medical Appliance Technicians,51,Production,0.5754,0.45,0.555,0.8273,0.6078,Medium,actual,High school diploma or equivalent,11280
+51-9083,Ophthalmic Laboratory Technicians,51,Production,0.7797,0.97,0.4867,0.9039,0.5952,High,actual,High school diploma or equivalent,18660
+51-9111,Packaging and Filling Machine Operators and Tenders,51,Production,0.6792,0.98,0.5933,0.5515,0.1905,Medium,actual,High school diploma or equivalent,379060
+51-9123,"Painting, Coating, and Decorating Workers",51,Production,0.6945,0.92,0.41,0.9164,0.2717,Medium,actual,No formal educational credential,7940
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51,Production,0.6708,0.88,0.575,0.5,0.5,Medium,imputed,,158740
+51-9141,Semiconductor Processing Technicians,51,Production,0.5241,0.88,0.5292,0.1811,0.0238,Medium,actual,Associate's degree,31460
+51-9151,Photographic Process Workers and Processing Machine Operators,51,Production,0.7498,0.99,0.43,0.9972,0.3123,High,actual,High school diploma or equivalent,4800
+51-9161,Computer Numerically Controlled Tool Operators,51,Production,0.6703,0.88,0.5733,0.5,0.5,Medium,imputed,,169450
+51-9162,Computer Numerically Controlled Tool Programmers,51,Production,0.6843,0.88,0.6292,0.5,0.5,Medium,imputed,,28500
+51-9191,Adhesive Bonding Machine Operators and Tenders,51,Production,0.7372,0.95,0.5175,0.8774,0.3487,High,actual,High school diploma or equivalent,11500
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51,Production,0.6775,0.81,0.6875,0.7409,0.2227,Medium,actual,No formal educational credential,14760
+51-9193,Cooling and Freezing Equipment Operators and Tenders,51,Production,0.7333,0.93,0.575,0.8106,0.3697,High,actual,High school diploma or equivalent,6900
+51-9194,Etchers and Engravers,51,Production,0.7054,0.98,0.5858,0.6518,0.2437,High,actual,High school diploma or equivalent,7750
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51,Production,0.6822,0.9,0.5067,0.8148,0.2171,Medium,actual,High school diploma or equivalent,33190
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51,Production,0.7126,0.9,0.6283,0.8148,0.2171,High,actual,High school diploma or equivalent,33190
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51,Production,0.6582,0.9,0.4108,0.8148,0.2171,Medium,actual,High school diploma or equivalent,33190
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",51,Production,0.643,0.9,0.35,0.8148,0.2171,Medium,actual,High school diploma or equivalent,33190
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",51,Production,0.5482,0.67,0.5067,0.5125,0.3403,Medium,actual,High school diploma or equivalent,96130
+51-9197,Tire Builders,51,Production,0.742,0.94,0.555,0.7047,0.5756,High,actual,High school diploma or equivalent,20770
+51-9198,Helpers--Production Workers,51,Production,0.5943,0.66,0.475,0.9694,0.1176,Medium,actual,No formal educational credential,165700
+51-9199,"Production Workers, All Other",51,Production,0.6114,0.88,0.5,0.3496,0.43,Medium,imputed,,251700
+53-1041,Aircraft Cargo Handling Supervisors,53,Transportation and Material Moving,0.6605,0.83,0.6142,0.5,0.5,Medium,imputed,,9760
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",53,Transportation and Material Moving,0.632,0.83,0.5,0.5,0.5,Medium,imputed,,623640
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",53,Transportation and Material Moving,0.2915,0.18,0.7458,0.1602,0.007,Low,actual,Bachelor's degree,103560
+53-2012,Commercial Pilots,53,Transportation and Material Moving,0.4762,0.55,0.8883,0.1546,0.021,Medium,actual,High school diploma or equivalent,47630
+53-2021,Air Traffic Controllers,53,Transportation and Material Moving,0.4306,0.11,0.7083,0.4833,0.7521,Medium,actual,Associate's degree,22510
+53-2022,Airfield Operations Specialists,53,Transportation and Material Moving,0.6079,0.71,0.6975,0.0376,0.9468,Medium,actual,High school diploma or equivalent,15190
+53-2031,Flight Attendants,53,Transportation and Material Moving,0.3623,0.35,0.5325,0.3148,0.1751,Medium,actual,High school diploma or equivalent,131650
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53,Transportation and Material Moving,0.5075,0.25,0.655,0.7577,0.6148,Medium,actual,High school diploma or equivalent,12630
+53-3031,Driver/Sales Workers,53,Transportation and Material Moving,0.6403,0.98,0.4983,0.5042,0.1527,Medium,actual,High school diploma or equivalent,409180
+53-3032,Heavy and Tractor-Trailer Truck Drivers,53,Transportation and Material Moving,0.5399,0.79,0.4833,0.2591,0.3417,Medium,actual,Postsecondary nondegree award,2062040
+53-3033,Light Truck Drivers,53,Transportation and Material Moving,0.5464,0.69,0.6008,0.3719,0.3053,Medium,actual,High school diploma or equivalent,983300
+53-3051,"Bus Drivers, School",53,Transportation and Material Moving,0.6345,0.83,0.51,0.5,0.5,Medium,imputed,,402930
+53-3052,"Bus Drivers, Transit and Intercity",53,Transportation and Material Moving,0.6387,0.83,0.5267,0.5,0.5,Medium,imputed,,159240
+53-3053,Shuttle Drivers and Chauffeurs,53,Transportation and Material Moving,0.6372,0.83,0.5208,0.5,0.5,Medium,imputed,,248530
+53-3054,Taxi Drivers,53,Transportation and Material Moving,0.632,0.83,0.5,0.5,0.5,Medium,imputed,,41050
+53-3099,"Motor Vehicle Operators, All Other",53,Transportation and Material Moving,0.7312,0.83,0.5,0.7535,0.8235,High,imputed,,46880
+53-4011,Locomotive Engineers,53,Transportation and Material Moving,0.7327,0.96,0.6883,0.546,0.4496,High,actual,High school diploma or equivalent,33470
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",53,Transportation and Material Moving,0.7922,0.91,0.6467,0.8886,0.5924,High,actual,High school diploma or equivalent,3920
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",53,Transportation and Material Moving,0.6368,0.83,0.5192,0.5,0.5,Medium,imputed,,12400
+53-4031,Railroad Conductors and Yardmasters,53,Transportation and Material Moving,0.6583,0.83,0.5492,0.337,0.8109,Medium,actual,High school diploma or equivalent,46440
+53-4041,Subway and Streetcar Operators,53,Transportation and Material Moving,0.6237,0.86,0.5033,0.2409,0.7045,Medium,actual,High school diploma or equivalent,10200
+53-4099,"Rail Transportation Workers, All Other",53,Transportation and Material Moving,0.8027,0.83,0.5,0.9861,0.9902,High,imputed,,1120
+53-5011,Sailors and Marine Oilers,53,Transportation and Material Moving,0.6993,0.83,0.6517,0.5084,0.6849,Medium,actual,No formal educational credential,31670
+53-5021,"Captains, Mates, and Pilots of Water Vessels",53,Transportation and Material Moving,0.4377,0.27,0.6025,0.4763,0.5588,Medium,actual,Postsecondary nondegree award,36850
+53-5022,Motorboat Operators,53,Transportation and Material Moving,0.6222,0.62,0.5258,0.5028,0.9482,Medium,actual,Postsecondary nondegree award,2480
+53-5031,Ship Engineers,53,Transportation and Material Moving,0.2999,0.041,0.68,0.5446,0.0308,Low,actual,Postsecondary nondegree award,8400
+53-6011,Bridge and Lock Tenders,53,Transportation and Material Moving,0.761,0.97,0.5175,0.5501,0.8908,High,actual,High school diploma or equivalent,3040
+53-6021,Parking Attendants,53,Transportation and Material Moving,0.5817,0.87,0.4008,0.5696,0.1303,Medium,actual,No formal educational credential,137880
+53-6031,Automotive and Watercraft Service Attendants,53,Transportation and Material Moving,0.6209,0.83,0.5733,0.663,0.0868,Medium,actual,No formal educational credential,102010
+53-6032,Aircraft Service Attendants,53,Transportation and Material Moving,0.632,0.83,0.5,0.5,0.5,Medium,imputed,,31300
+53-6041,Traffic Technicians,53,Transportation and Material Moving,0.7135,0.9,0.6908,0.3663,0.7171,High,actual,High school diploma or equivalent,7860
+53-6051,Transportation Inspectors,53,Transportation and Material Moving,0.8186,0.9,0.6958,0.7688,0.8725,High,actual,High school diploma or equivalent,24500
+53-6051,Transportation Inspectors,53,Transportation and Material Moving,0.8276,0.9,0.7317,0.7688,0.8725,High,actual,High school diploma or equivalent,24500
+53-6051,Transportation Inspectors,53,Transportation and Material Moving,0.7511,0.9,0.4258,0.7688,0.8725,High,actual,High school diploma or equivalent,24500
+53-6061,Passenger Attendants,53,Transportation and Material Moving,0.5432,0.75,0.2642,0.3858,0.6667,Medium,actual,High school diploma or equivalent,27110
+53-6099,"Transportation Workers, All Other",53,Transportation and Material Moving,0.7808,0.83,0.5,0.9889,0.8403,High,imputed,,13550
+53-7011,Conveyor Operators and Tenders,53,Transportation and Material Moving,0.6683,0.93,0.5067,0.5139,0.4454,Medium,actual,No formal educational credential,22930
+53-7021,Crane and Tower Operators,53,Transportation and Material Moving,0.6896,0.9,0.5017,0.5376,0.6443,Medium,actual,High school diploma or equivalent,42890
+53-7031,Dredge Operators,53,Transportation and Material Moving,0.7436,0.92,0.43,0.6964,0.8585,High,actual,High school diploma or equivalent,1040
+53-7041,Hoist and Winch Operators,53,Transportation and Material Moving,0.6678,0.65,0.5392,0.7674,0.7969,Medium,actual,No formal educational credential,2600
+53-7051,Industrial Truck and Tractor Operators,53,Transportation and Material Moving,0.5881,0.93,0.5842,0.1337,0.2885,Medium,actual,No formal educational credential,774420
+53-7061,Cleaners of Vehicles and Equipment,53,Transportation and Material Moving,0.3962,0.37,0.5125,0.4847,0.1541,Medium,actual,No formal educational credential,380430
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53,Transportation and Material Moving,0.5547,0.85,0.3908,0.4568,0.1709,Medium,actual,No formal educational credential,2950280
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53,Transportation and Material Moving,0.5751,0.85,0.4725,0.4568,0.1709,Medium,actual,No formal educational credential,2950280
+53-7063,Machine Feeders and Offbearers,53,Transportation and Material Moving,0.68,0.93,0.4025,0.9234,0.1513,Medium,actual,No formal educational credential,42330
+53-7064,"Packers and Packagers, Hand",53,Transportation and Material Moving,0.4405,0.38,0.515,0.7326,0.0882,Medium,actual,No formal educational credential,559820
+53-7065,Stockers and Order Fillers,53,Transportation and Material Moving,0.6239,0.83,0.4675,0.5,0.5,Medium,imputed,,2833810
+53-7071,Gas Compressor and Gas Pumping Station Operators,53,Transportation and Material Moving,0.7733,0.91,0.755,0.4694,0.8445,High,actual,High school diploma or equivalent,3510
+53-7072,"Pump Operators, Except Wellhead Pumpers",53,Transportation and Material Moving,0.7073,0.9,0.7342,0.6476,0.2283,High,actual,High school diploma or equivalent,9780
+53-7073,Wellhead Pumpers,53,Transportation and Material Moving,0.5904,0.84,0.7308,0.0947,0.3515,Medium,actual,High school diploma or equivalent,17990
+53-7081,Refuse and Recyclable Material Collectors,53,Transportation and Material Moving,0.5155,0.93,0.2192,0.1685,0.3669,Medium,actual,No formal educational credential,147240
+53-7121,"Tank Car, Truck, and Ship Loaders",53,Transportation and Material Moving,0.5386,0.72,0.7808,0.2089,0.091,Medium,actual,No formal educational credential,10700
+53-7199,"Material Moving Workers, All Other",53,Transportation and Material Moving,0.6513,0.83,0.5,0.7006,0.3613,Medium,imputed,,23480

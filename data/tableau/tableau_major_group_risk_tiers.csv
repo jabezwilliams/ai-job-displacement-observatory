@@ -1,0 +1,49 @@
+major_group_title,risk_tier,occupation_count,total_employment,group_total_emp,pct_of_group
+Architecture and Engineering,Medium,33,6307470,6478530,97.36
+Architecture and Engineering,High,3,171060,6478530,2.64
+"Arts, Design, Entertainment, Sports, and Media",Low,12,974190,2523570,38.6
+"Arts, Design, Entertainment, Sports, and Media",Medium,29,1503880,2523570,59.59
+"Arts, Design, Entertainment, Sports, and Media",High,1,45500,2523570,1.8
+Building and Grounds Cleaning and Maintenance,Medium,9,4521210,4548260,99.41
+Building and Grounds Cleaning and Maintenance,High,1,27050,4548260,0.59
+Business and Financial Operations,Medium,21,14876540,17286220,86.06
+Business and Financial Operations,High,9,2409680,17286220,13.94
+Community and Social Service,Low,8,1286880,2668670,48.22
+Community and Social Service,Medium,9,1381790,2668670,51.78
+Computer and Mathematical,Medium,21,8494850,8494850,100.0
+Construction and Extraction,Medium,54,7743020,7821590,99.0
+Construction and Extraction,High,5,78570,7821590,1.0
+Educational Instruction and Library,Low,1,478780,9100600,5.26
+Educational Instruction and Library,Medium,62,8553130,9100600,93.98
+Educational Instruction and Library,High,1,68690,9100600,0.75
+"Farming, Fishing, and Forestry",Medium,9,413810,434320,95.28
+"Farming, Fishing, and Forestry",High,4,20510,434320,4.72
+Food Preparation and Serving Related,Low,2,201140,17534810,1.15
+Food Preparation and Serving Related,Medium,15,17333670,17534810,98.85
+Healthcare Practitioners and Technical,Low,15,14565110,25464540,57.2
+Healthcare Practitioners and Technical,Medium,57,10899430,25464540,42.8
+Healthcare Support,Medium,15,3664050,3705600,98.88
+Healthcare Support,High,1,41550,3705600,1.12
+"Installation, Maintenance, and Repair",Low,2,748570,6086210,12.3
+"Installation, Maintenance, and Repair",Medium,43,5289870,6086210,86.92
+"Installation, Maintenance, and Repair",High,6,47770,6086210,0.78
+Legal,Medium,7,1257040,1305620,96.28
+Legal,High,1,48580,1305620,3.72
+"Life, Physical, and Social Science",Medium,47,2069130,2092600,98.88
+"Life, Physical, and Social Science",High,1,23470,2092600,1.12
+Management,Low,10,2013280,18174970,11.08
+Management,Medium,27,16161690,18174970,88.92
+Office and Administrative Support,Medium,19,7889590,17851090,44.2
+Office and Administrative Support,High,35,9961500,17851090,55.8
+Personal Care and Service,Low,3,1129480,3721200,30.35
+Personal Care and Service,Medium,28,2591720,3721200,69.65
+Production,Medium,65,5722420,7341390,77.95
+Production,High,40,1618970,7341390,22.05
+Protective Service,Low,1,2780,4675980,0.06
+Protective Service,Medium,22,4663680,4675980,99.74
+Protective Service,High,1,9520,4675980,0.2
+Sales and Related,Medium,17,12093530,13709080,88.22
+Sales and Related,High,5,1615550,13709080,11.78
+Transportation and Material Moving,Low,2,111960,16676450,0.67
+Transportation and Material Moving,Medium,37,16366820,16676450,98.14
+Transportation and Material Moving,High,11,197670,16676450,1.19
